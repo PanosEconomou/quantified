@@ -1,0 +1,528 @@
+﻿ObjectID,GlobalID,CreationDate,Creator,EditDate,Editor,What word best describes this sound? ,On a scale from 1 to 5 how loud was this sound?,What kind of sound is this? ,Other - What kind of sound is this? ,On a scale from 1 to 5 how loud was this sound? (from most faint to loudest),Is there anything else we need to know about this sound? ,Are you outdoors or indoors? ,"What level are you on?  (0 = ground, 9= 9th floor or higher)",x,y
+1,b67b9b07-2914-4ea4-b0f4-36c5e11eab6e,3/27/2022 7:45:15 AM,adsp22_as13966,3/27/2022 7:45:15 AM,adsp22_as13966,A/C,,Machine,,Faint 1,A/C sound in Unix Lab,,,54.4346186,24.5242089
+2,a16ec83d-b6b9-4705-80cd-54078f411ed8,3/27/2022 7:50:08 AM,adsp22_as13966,3/27/2022 7:50:08 AM,adsp22_as13966,Students in front of Library,,Human,,2,"Sunday morning, very quiet",,,54.4343249,24.5241225
+3,1f702c42-b33d-4858-8fa1-b5ffed98b7f7,3/27/2022 7:51:26 AM,adsp22_as13966,3/27/2022 7:51:26 AM,adsp22_as13966,Hydrologi  water dispenser,,Machine,,3,Processing water,,,54.4346687,24.5239247
+4,6c7f72b2-aab6-4bff-99e1-89ec4ea6267c,3/27/2022 7:53:29 AM,adsp22_as13966,3/27/2022 7:53:29 AM,adsp22_as13966,Birds signing ,,Natural,,2,On top of the Arts Center,,,54.4350846,24.5235906
+5,6d28813b-2808-4730-87a1-0d9cdb55db9a,3/27/2022 7:54:39 AM,adsp22_as13966,3/27/2022 7:54:39 AM,adsp22_as13966,Wind,,Natural,,2,Windy day in front of A5A,,,54.4347745,24.5233404
+6,936431d2-684e-41e6-a20b-9d779bf6084a,3/27/2022 7:59:55 AM,adsp22_as13966,3/27/2022 7:59:55 AM,adsp22_as13966,People walking into D2,,Human,,2,People making sounds going down from stairs,,,54.4354832,24.5229531
+7,938cdced-cae1-4f99-99de-b0d658ad6f6b,3/27/2022 8:00:59 AM,adsp22_as13966,3/27/2022 8:00:59 AM,adsp22_as13966,Water fountain,,other,Half natural half machine,3,,,,54.435336,24.5230332
+8,5909c8a1-c923-4905-a9c9-97673f1c96a6,3/27/2022 8:04:19 AM,adsp22_as13966,3/27/2022 8:04:19 AM,adsp22_as13966,Table tennis,,other,Wood,4,Intensive game,,,54.4348106,24.5237388
+9,d4c118c8-83e8-42fb-99ac-d970bfc35c34,3/28/2022 7:55:54 AM,adsp22_amd1139,3/28/2022 7:55:54 AM,adsp22_amd1139,Birds chirping ,,,,2,High line ,,,54.4330755430379,24.5241389897472
+10,2410dadd-34ed-4a74-b876-11c8ea9f5162,3/28/2022 11:08:02 AM,adsp22_amd1139,3/28/2022 11:08:02 AM,adsp22_amd1139,Coach shouting ,,Human,,4,Football field ,,,54.4331663010296,24.5243523585509
+11,c715a452-5782-491f-8e3f-db8abdf7bb03,3/28/2022 1:24:48 PM,adsp22_amd1139,3/28/2022 1:24:48 PM,adsp22_amd1139,Luggage cart ,,Human,,4,Palms,,,54.435036570702,24.5233546808794
+12,10cd0f5f-6c45-4714-9a43-00be57494f5b,3/28/2022 3:31:39 PM,ADFA19_nks369,3/28/2022 3:31:39 PM,ADFA19_nks369,White noise from an engine far away ,,Machine,,2,Where exactly is it coming from?,,,54.43319115168,24.5243120138506
+13,66f3f19e-ba9a-41bd-9b11-3bf4b8a7c4da,3/28/2022 3:37:09 PM,adsp22_amd1139,3/28/2022 3:37:09 PM,adsp22_amd1139,Elevator whirring,,Machine,,Faint 1,A2,,,54.435327119318,24.5229734180123
+14,a7dcbc64-cd9b-4905-afc0-22b33c17e02d,3/28/2022 3:44:57 PM,adsp22_amd1139,3/28/2022 3:44:57 PM,adsp22_amd1139,Talking ,,Human,,3,Marketplace ,,,54.4337168714245,24.5244901582869
+15,6ec5fc36-b510-42a6-94ab-b1fb52ac8e00,3/28/2022 6:11:08 PM,ADFA19_nks369,3/28/2022 6:11:08 PM,ADFA19_nks369,Gentle footsteps ,,Human,,Faint 1,"It is not constant, the sound depends on if someone is walking ",,,54.4344510101616,24.5244138196803
+16,4fd70de0-88af-464f-96d5-79982eff7d1b,3/28/2022 6:43:21 PM,adsp22_amd1139,3/28/2022 6:43:21 PM,adsp22_amd1139,Neighbour’s music ,,Human,,3,A2C 7th floor ,,,54.4331275713391,24.5240953928167
+17,e6f1fb83-a696-4a22-8b43-9928dcd6bcdb,3/28/2022 7:40:25 PM,ADFA19_nks369,3/28/2022 7:40:25 PM,ADFA19_nks369,Amalgamation ,,Human,,3,"Music playing, people are chatting in a distance and a friend is talking to me ",,,54.4337560168946,24.524484171975
+18,77a89235-b7eb-44df-96e5-8c7de7f2a83f,3/28/2022 7:44:53 PM,ADFA19_nks369,3/28/2022 7:44:53 PM,ADFA19_nks369,Leaf friction ,,Natural,,3,Windy outdoors ,,,54.4322915365791,24.5267702186637
+19,8eb3fef9-c776-4d2d-9657-4e116bfde7ff,3/28/2022 8:08:30 PM,adsp22_po524,3/28/2022 8:08:30 PM,adsp22_po524,Motion sensor click for light,,Machine,,Faint 1,It sounds all the time and it’s quite frustrating and hard to concentrate,,,54.4356244896114,24.5220000716082
+20,5f8827ba-e762-40c3-837e-4fb7d5781ea2,3/28/2022 11:12:19 PM,adsp22_pk2269,3/28/2022 11:12:19 PM,adsp22_pk2269,My friend talking,,Human,,3,Nope,,,0,0
+21,47e081e8-a96a-4734-8981-694e9e50d4fd,3/28/2022 11:13:05 PM,adsp22_pk2269,3/28/2022 11:13:05 PM,adsp22_pk2269,Air Con,,Machine,,2,It is not noticable if you don't pay attention,,,0,0
+22,3c9cd2c2-0454-4b50-8f41-b18f016e59f4,3/28/2022 11:14:52 PM,adsp22_pk2269,3/28/2022 11:14:52 PM,adsp22_pk2269,Typing,,Human,,2,,,,0,0
+23,5b1c47fd-d98c-42c5-86e7-2128973ce6b0,3/28/2022 11:15:20 PM,adsp22_pk2269,3/28/2022 11:15:20 PM,adsp22_pk2269,Computer Game,,Human,,3,My friend playing computer games really loud,,,0,0
+24,8b4e1b64-a87e-4a5a-82ab-57a3f23a6f51,3/28/2022 11:16:00 PM,adsp22_pk2269,3/28/2022 11:16:00 PM,adsp22_pk2269,Trackpad,,Human,,Faint 1,Hand gestures on laptop trackpad,,,0,0
+25,81187f0a-c713-45f3-9744-8ede0218ad57,3/29/2022 1:53:47 AM,adsp22_mim7995,3/29/2022 1:53:47 AM,adsp22_mim7995,Construction ,,Machine,,2,,,,54.4345814459606,24.5234557413594
+26,c35c902c-6b50-4d4f-98f6-2dbdaae25e42,3/29/2022 3:47:55 AM,adsp22_sl7362,3/29/2022 3:47:55 AM,adsp22_sl7362,Bus sound,,Machine,,2,I hear it periodically,,,54.4329618878697,24.5243402052567
+27,26d937c6-bd36-424c-accd-04f9f1c6702b,3/29/2022 4:14:55 AM,adsp22_sl7362,3/29/2022 4:14:55 AM,adsp22_sl7362,Bird Sound,,Natural,,Faint 1,I couldn't find the bitd but I could hear,,,54.43310398298,24.5243383948845
+28,d3c2e6db-b5e8-4d33-b8c3-f5b0d420dd86,3/29/2022 4:15:44 AM,adsp22_sl7362,3/29/2022 4:15:44 AM,adsp22_sl7362,Fanning Sound,,Machine,,3,From A2A building,,,54.4330837829386,24.5242258416385
+29,72da3508-04f7-473a-a8a4-7f055a73f388,3/29/2022 5:14:23 AM,adsp22_amd1139,3/29/2022 5:14:23 AM,adsp22_amd1139,Coach ,,Human,,2,Football field ,,,54.433079613537,24.5241266431269
+30,141b4526-851d-4c46-b7b4-e04f561639b6,3/29/2022 5:23:32 AM,adsp22_ss13750,3/29/2022 5:23:32 AM,adsp22_ss13750,Grill,,Machine,,2,Its the sound from the grill. It has sounds from the metallic instruments and machines.,,,0,0
+31,275217ec-cad4-48b6-8566-3d3eb7a51970,3/29/2022 5:34:30 AM,adsp22_po524,3/29/2022 5:34:30 AM,adsp22_po524,Hum,,Machine,,2,A machine in the Lab that is constantly humming really loud and it’s distracting me from the lecture ,,,54.43343734,24.52458572
+32,48edfedb-c2c7-49d4-892a-3442406ea300,3/29/2022 5:44:49 AM,adsp22_ka1914,3/29/2022 5:44:49 AM,adsp22_ka1914,Sweeper,,Machine,,Loud 5,"The sweeper machine is moving around, haha",,,54.4342452064523,24.5239457214234
+33,f0187c23-6f16-4adf-94ae-0b00514e3ec5,3/29/2022 5:46:16 AM,adsp22_ka1914,3/29/2022 5:46:16 AM,adsp22_ka1914,Birds,,Natural,,3,Birds chirping on the C2 palms,,,54.4341715622882,24.5241060268597
+34,d465c220-4baa-40c2-8469-080e845b3da0,3/29/2022 5:50:55 AM,adsp22_ss13750,3/29/2022 5:50:55 AM,adsp22_ss13750,Piano,,Machine,,2,Person playing piano in the arts center,,,0,0
+35,5054e496-3f1d-4585-8de5-e0606e6e65d7,3/29/2022 5:52:14 AM,adsp22_ka1914,3/29/2022 5:52:14 AM,adsp22_ka1914,Skateboard,,Human,,Faint 1,"Some students ride their penny boards and skateboard to navigate through campus, and it’s particularly noticeable in front of C2 since it’s at the crossroads of campus. ",,,54.4342142845136,24.5239306992189
+36,f12035fa-43cf-424d-873a-6c9152ca557d,3/29/2022 4:13:55 PM,adsp22_as13966,3/29/2022 4:13:55 PM,adsp22_as13966,Keyboard clicking,,Machine,,2,Mechanical keyboard,Indoors,3,54.4342493489382,24.524178665028
+37,65768d5f-6b73-470b-94ec-808a60d850e4,3/30/2022 7:55:24 AM,adsp22_as13966,3/30/2022 7:55:24 AM,adsp22_as13966,Air freshener ,,,,3,,Indoors,0,54.4351158200258,24.5233002359162
+38,ac31166d-43c1-4901-a156-e04be9d85250,3/30/2022 5:39:05 PM,adsp22_po524,3/30/2022 5:39:05 PM,adsp22_po524,Machine Hum,,Machine,,2,Machine hum from an old experiment apparatus in the ERB,Indoors,0,54.43302917,24.5251255
+39,23b49542-506e-4fc7-99dd-045d5d838cf3,3/30/2022 7:12:51 PM,adsp22_as13966,3/30/2022 7:12:51 PM,adsp22_as13966,Students typing,,Machine,,3,Keyboard clicking,Indoors,3,54.4342718648676,24.5240532379931
+40,2b87f887-721e-4f7c-a2d9-a2a706cca8da,3/30/2022 7:48:58 PM,adsp22_sl7362,3/30/2022 7:48:58 PM,adsp22_sl7362,Fan sound ,,Machine,,Faint 1,The sound may be from water filter,Indoors,1,54.4346616031741,24.5242620253635
+41,a5f7fb61-519a-44dd-bff7-f1df292e094f,3/30/2022 7:51:35 PM,adsp22_sl7362,3/30/2022 7:51:35 PM,adsp22_sl7362,Pingpong,,other,Pingpong sound,2,,Indoors,2,54.4345604420975,24.5241043559039
+42,247e98d7-d779-41ff-bffb-f023f7215e4f,3/30/2022 7:52:33 PM,adsp22_sl7362,3/30/2022 7:52:33 PM,adsp22_sl7362,Flipflop sliding,,Human,,Faint 1,,Indoors,2,54.434697747422,24.5242928001245
+43,2f37e7ad-a46a-4935-a2f4-36b4ace29971,3/30/2022 7:53:26 PM,adsp22_sl7362,3/30/2022 7:53:26 PM,adsp22_sl7362,Water filter,,Machine,,Faint 1,,Indoors,2,54.4345395657021,24.5241811188146
+44,e3ad9696-c48b-4f4c-9ac1-0d579b2e83c6,3/30/2022 7:55:24 PM,adsp22_sl7362,3/30/2022 7:55:24 PM,adsp22_sl7362,Crickets,,Natural,,Faint 1,,Outdoors,2,54.4344053157067,24.5241196938112
+45,b4344b9f-4266-48ba-9d73-6e6fe7bb8768,3/30/2022 7:56:02 PM,adsp22_sl7362,3/30/2022 7:56:02 PM,adsp22_sl7362,Hvac,,Machine,,Faint 1,,Outdoors,2,54.4349464074963,24.5236857845148
+46,be23491a-86cf-42a3-bee5-fb5d9bc0aa59,3/30/2022 7:56:22 PM,adsp22_sl7362,3/30/2022 7:56:22 PM,adsp22_sl7362,Plane,,Machine,,3,,Outdoors,2,54.4348938059338,24.5237256010131
+47,3727469d-fb6f-4a97-9ca5-1f979120b879,3/30/2022 8:31:38 PM,adsp22_as13966,3/30/2022 8:31:38 PM,adsp22_as13966,Birthday Party,,Human,,4,Friends birthday,Indoors,2,54.4351583230617,24.5233860405096
+48,1b694ea1-85bb-4330-a9b7-67fd8bbdca08,3/30/2022 8:48:03 PM,adsp22_gkm267,3/30/2022 8:48:03 PM,adsp22_gkm267,AC,,Machine,,3,,,,54.4355583907012,24.5221025053181
+49,108e858b-1eb1-4bdb-b223-63e57a6a6115,3/31/2022 4:19:20 PM,adsp22_gkm267,3/31/2022 4:19:20 PM,adsp22_gkm267,Crowd,,Human,,3,,Indoors,0,54.4355497476088,24.5226162320041
+50,ef53bce6-e4a3-4f29-960b-daabd41f7a8c,4/3/2022 6:04:57 PM,adsp22_ss13189,4/3/2022 6:04:57 PM,adsp22_ss13189,buzz,,Machine,,3,,Indoors,3,54.4349574,24.5229462
+51,999dd4a3-b8ef-4ba4-86ed-50dcb718916b,4/3/2022 8:43:21 PM,adsp22_po524,4/3/2022 8:43:21 PM,adsp22_po524,Paper bag,,Human,,2,It is the sound a paper bag makes when you try to take something out of it,Indoors,0,54.4324358793639,24.5249033860878
+52,7b43c551-28a7-427c-b52f-e2723e4ddbca,4/4/2022 6:55:19 AM,adsp22_ss13189,4/4/2022 6:55:19 AM,adsp22_ss13189,calls,,Human,,2,,Indoors,3,54.434375,24.5241359
+53,8aebaf38-84df-4f1a-a92b-4354ad3eb94f,4/4/2022 6:55:42 AM,adsp22_ss13189,4/4/2022 6:55:42 AM,adsp22_ss13189,footsteps,,Human,,Faint 1,,Indoors,3,54.4343779,24.5241289
+54,f28a0489-a775-498d-8e5b-ee57a6f464ff,4/4/2022 6:21:01 PM,adsp22_met448,4/4/2022 6:21:01 PM,adsp22_met448,Scattered,,Human,,3,,Indoors,4,0,0
+55,8086f70a-1726-4abe-80e6-47ee83b903e8,4/4/2022 6:22:13 PM,adsp22_met448,4/4/2022 6:22:13 PM,adsp22_met448,Thumping,,Machine,,4,,Indoors,4,0,0
+56,31e46190-11a4-4391-994f-a127132e6536,4/5/2022 5:01:20 AM,adsp22_mim7995,4/5/2022 5:01:20 AM,adsp22_mim7995,Birds chirping ,,Natural,,4,At the palms ,,,54.4338352766289,24.5239068022375
+57,a59012a7-1038-4851-8379-e7158ae714f7,4/5/2022 11:01:43 AM,adsp22_mf3846,4/28/2022 9:49:45 AM,adsp22_mf3846,distant fire alarm,,Machine,,3,location: A2 classroom (my laptop doesn't know though),Indoors,0,54.4338333606582,24.5242260952055
+58,fcb883e5-dbc6-41f4-85cd-33b143f2a149,4/5/2022 11:05:35 AM,adsp22_mf3846,4/28/2022 9:49:29 AM,adsp22_mf3846,keyboard typing,,Machine,,3,"several sources, chaotic sound",Indoors,0,54.433814585195,24.5242309756771
+59,795db8c0-b691-4448-9fb2-6c6b26975823,4/5/2022 11:08:48 AM,adsp22_ss13189,4/5/2022 11:08:48 AM,adsp22_ss13189,ramadan,,Machine,,4,,Indoors,0,54.4358293,24.5227946
+60,8d0d8914-c92c-4019-8fc4-480dea6facfb,4/5/2022 11:13:16 AM,adsp22_mf3846,4/28/2022 9:49:38 AM,adsp22_mf3846,graphite (pencil) on paper,,other,human created but an object is making the sound,2,I haven't written with pencil in a long time so the sound stood out,Indoors,0,54.4338172674039,24.5242309756771
+62,e4fd14c9-564c-4a87-947c-81a326b2ff0e,4/5/2022 11:24:13 AM,adsp22_mf3846,4/28/2022 9:41:24 AM,adsp22_mf3846,click barcode recognized,,Machine,,2,"[distracted/annoyed] loud at the entrance of convenient store, repeated but not periodic sound",Indoors,1,54.4341557326121,24.524297440875
+63,c87b640c-95d9-4e7b-bc4f-f1551851dbf4,4/5/2022 11:26:05 AM,adsp22_mf3846,4/28/2022 9:47:33 AM,adsp22_mf3846,many conversations,,Human,,Loud 5,"[bothered by sound] chaotic, many overlapping conversations, none relevant to me",Indoors,1,54.4341235461044,24.5242876799369
+65,ba11ed75-db4b-48a5-9029-32d5510f9991,4/5/2022 11:26:07 AM,adsp22_mf3846,4/28/2022 9:36:15 AM,adsp22_mf3846,fridges buzzing,,Machine,,4,"[fridges = calming sound, predictable, constant] I could still hear the barcode clicks from the counter even though fridges felt louder; fridges sound was more constant",Indoors,1,54.4340913595957,24.5243084219294
+66,4eafd598-8286-4412-abaf-1d1e77711b54,4/5/2022 11:54:32 AM,adsp22_mf3846,4/28/2022 9:38:09 AM,adsp22_mf3846,construction muffled,,Machine,,Faint 1,,Indoors,0,54.4337783753728,24.5233890915377
+67,f30914fe-767e-41c2-b913-38eddaf831d6,4/7/2022 5:05:36 AM,adsp22_mim7995,4/7/2022 5:05:36 AM,adsp22_mim7995,Bird sounds,,Natural,,4,Palms 9am,,,54.4341528938835,24.5239893026897
+68,9d6a45e7-d184-4da4-8dff-4f032b933738,4/7/2022 2:19:02 PM,adsp22_ss13189,4/7/2022 2:19:02 PM,adsp22_ss13189,meditative,,other,,4,,Indoors,2,54.4338388,24.524414
+69,fe77ea41-0482-438e-945a-819ef57f3da2,4/9/2022 7:12:33 AM,adsp22_as13966,4/9/2022 7:12:33 AM,adsp22_as13966,Birds ,,Natural,,Faint 1,,Outdoors,2,54.4349064957857,24.5230926945961
+70,c7a7da3d-94a5-4426-95b2-0a5209871f72,4/11/2022 4:59:08 PM,adsp22_as13966,4/11/2022 4:59:08 PM,adsp22_as13966,IM project,,Machine,,4,Students working on IM project in Unix Lab,Indoors,3,54.4341640487729,24.5240503627454
+71,a2b34e7e-3cbe-4b57-aa3a-4bc276f7d702,4/11/2022 5:21:44 PM,adsp22_po524,4/11/2022 5:21:44 PM,adsp22_po524,My screams,,Human,,4,"I was very happy about my capstone working after 2 years of failure, that the guard jumped in to ask me if I was hurt.",Indoors,0,54.4342529984585,24.5237584163557
+72,9626525c-067e-490f-af09-965f9cdbefed,4/13/2022 7:50:24 PM,adsp22_po524,4/13/2022 7:50:24 PM,adsp22_po524,Hum of the freezer in NY pizzeria,,Machine,,2,,Indoors,2,54.4337682432466,24.5244206170782
+73,eaf700b5-c594-4605-9815-7ae78ad60446,4/18/2022 6:51:52 AM,adsp22_amd1139,4/18/2022 6:51:52 AM,adsp22_amd1139,AC whirring ,,Machine,,2,A4 - 002,Indoors,0,54.4342613362431,24.5238209335156
+74,fa5acc0d-5163-4882-a1c3-67ce9109c09a,4/18/2022 1:49:57 PM,adsp22_gkm267,4/18/2022 1:49:57 PM,adsp22_gkm267,Conveyor belt,,Machine,,2,,Indoors,1,54.4347356399001,24.5246504175853
+75,33a8a7b7-bda7-4816-bcfd-fa0e1b140ae6,4/18/2022 1:52:11 PM,adsp22_gkm267,4/18/2022 1:52:11 PM,adsp22_gkm267,Beeps,,Machine,,Faint 1,,Indoors,1,54.4345715510847,24.52421789655
+76,4d0e94a6-7817-4dca-8859-2991aee81f9e,4/18/2022 2:08:48 PM,adsp22_gkm267,4/18/2022 2:08:48 PM,adsp22_gkm267,Cashier beeps and Receipt rips,,Machine,,2,,Indoors,1,54.4341365155933,24.5240283469536
+77,cc0b7720-6fed-4aea-bbb9-7ba33a1d100d,4/18/2022 2:08:53 PM,adsp22_gkm267,4/18/2022 2:08:53 PM,adsp22_gkm267,"Ping pong balls bouncing and yelling 
+",,Human,,4,,Indoors,2,54.4348179359266,24.5236037499256
+78,fef165b2-58e2-4034-9083-bf65d3b01fca,4/18/2022 3:07:34 PM,adsp22_po524,4/18/2022 3:07:34 PM,adsp22_po524,Watch ,,Machine,,Faint 1,My watch tick,Indoors,3,54.4348392671584,24.5225710758448
+79,c636778b-e423-4efa-b472-3a764e1f2d38,4/18/2022 4:15:38 PM,adsp22_ka1914,4/18/2022 4:15:38 PM,adsp22_ka1914,Traffic,,Machine,,2,"I live on the 7th floor, but I can still hear the cars through my windows",Indoors,7,54.434504133564,24.5226637564148
+80,533106f0-6d36-47cf-b40a-16dc7fa007db,4/18/2022 7:20:26 PM,adsp22_gkm267,4/18/2022 7:20:26 PM,adsp22_gkm267,Rumbling and shaking from dryers,,Machine,,3,,Indoors,2,54.4353748914247,24.5222242612774
+81,61afc59a-16d3-42e5-82ab-5c9784c168df,4/18/2022 8:04:49 PM,adsp22_gkm267,4/18/2022 8:04:49 PM,adsp22_gkm267,Music,,Machine,,Faint 1,,Indoors,4,54.4356587808086,24.5229470548132
+82,f1b4efbd-f676-46f7-997e-afce05a99633,4/18/2022 8:04:50 PM,adsp22_gkm267,4/18/2022 8:04:50 PM,adsp22_gkm267,Grasshoppers and cars far away,,Natural,,2,,Outdoors,2,54.4352003646349,24.5222891573738
+83,820b8146-02be-458c-ae27-66f35bae5844,4/18/2022 8:24:17 PM,adsp22_sl7362,4/18/2022 8:24:17 PM,adsp22_sl7362,Laundry machine,,Machine,,4,,Indoors,2,54.4332173409138,24.5242096507088
+84,3aa5b190-e1cc-4446-a3a8-5a1009fb8d29,4/18/2022 8:25:24 PM,adsp22_sl7362,4/18/2022 8:25:24 PM,adsp22_sl7362,Crickets,,Natural,,Faint 1,,Outdoors,2,54.4333661684201,24.5242243476623
+85,d1172a95-7c15-4704-8065-477f5a9611c3,4/18/2022 8:25:57 PM,adsp22_sl7362,4/18/2022 8:25:57 PM,adsp22_sl7362,Sports car,,Machine,,Faint 1,,Outdoors,2,54.4335754797096,24.5239142398146
+86,90d56389-04b6-4e93-827c-b9460cf733dc,4/18/2022 8:27:16 PM,adsp22_sl7362,4/18/2022 8:27:16 PM,adsp22_sl7362,Shuttlecock,,Human,,2,,Outdoors,2,54.4330762763782,24.5244688466499
+87,b9ac4d40-46ef-48e7-b38c-9d8f1ffcdb99,4/18/2022 8:43:53 PM,adsp22_sl7362,4/18/2022 8:43:53 PM,adsp22_sl7362,Motorbike,,Machine,,Faint 1,,Outdoors,2,54.4327367434415,24.5247101817813
+88,37f8fe8c-9677-415d-b998-b5ed085ef6e7,4/18/2022 8:43:54 PM,adsp22_sl7362,4/18/2022 8:43:54 PM,adsp22_sl7362,Leave swoosh,,Natural,,Faint 1,,Outdoors,2,54.4336190543813,24.5248225850664
+89,48ecd054-1d38-44b1-b776-660f3c7d9f6d,4/18/2022 8:43:55 PM,adsp22_sl7362,4/18/2022 8:43:55 PM,adsp22_sl7362,Leave swoosh,,Natural,,Faint 1,,Outdoors,2,54.4336471734031,24.5248155886228
+90,0135e24b-8383-4444-a9b1-5d8ee14985ac,4/18/2022 8:44:00 PM,adsp22_sl7362,4/18/2022 8:44:00 PM,adsp22_sl7362,Students talking,,Human,,2,,Indoors,1,54.4337162447237,24.5243544852761
+91,623eeee3-7841-44fc-bcd2-ca117378548f,4/18/2022 8:44:02 PM,adsp22_sl7362,4/18/2022 8:44:02 PM,adsp22_sl7362,Buzzer,,Machine,,3,,Indoors,1,54.4334761686866,24.5245858583254
+92,326a5bc9-9f55-4348-812f-84e113237363,4/18/2022 8:44:04 PM,adsp22_sl7362,4/18/2022 8:44:04 PM,adsp22_sl7362,Footstep from downstairs,,Human,,Faint 1,,Indoors,1,54.4332426540136,24.5247243361145
+93,af435c7a-109a-4a16-aff5-ae9db6310399,4/18/2022 8:44:05 PM,adsp22_sl7362,4/18/2022 8:44:05 PM,adsp22_sl7362,Chair push,,Human,,2,,Outdoors,0,54.4337218351706,24.5243079083797
+94,ddb81c34-bbf7-4e5b-a5d3-3387e49cf32b,4/18/2022 8:44:14 PM,adsp22_sl7362,4/18/2022 8:44:14 PM,adsp22_sl7362,Banner flip sound with wind ,,other,Fabric,Faint 1,,Outdoors,0,54.4336988822971,24.5242640293075
+95,0b73c68b-c81d-4c94-b293-048d53086300,4/18/2022 8:44:16 PM,adsp22_sl7362,4/18/2022 8:44:16 PM,adsp22_sl7362,Crickets,,Natural,,Faint 1,,Outdoors,0,54.4354740887475,24.5228966820206
+96,bc9ef6f1-04c9-4e01-99e6-24a8b703f371,4/18/2022 9:03:56 PM,adsp22_po524,4/18/2022 9:03:56 PM,adsp22_po524,Screams,,Human,,4,My roommates are having fun loudly ,Indoors,3,54.434924757731,24.5225842840208
+97,7c172c42-1132-4b55-bfb0-e17052870678,4/18/2022 10:38:12 PM,adsp22_amd1139,4/18/2022 10:38:12 PM,adsp22_amd1139,Trolley,,Machine,,4,A2C,Outdoors,7,54.4331328028252,24.5241141973402
+98,aed98873-ffc8-49ba-85a3-acc9ba7e6ce0,4/19/2022 5:39:51 AM,adsp22_met448,4/19/2022 5:39:51 AM,adsp22_met448,Professor speaking,,Human,,3,,Indoors,2,0,0
+99,797b131b-64fd-47b8-ae6e-b775aad9bfa2,4/19/2022 6:15:59 AM,adsp22_kds490,4/19/2022 6:15:59 AM,adsp22_kds490,Birds singing,,Natural,,3,,Outdoors,0,54.4336496585444,24.5240525632744
+100,c0ce883f-2711-4b64-b666-ace6fe0dcada,4/19/2022 6:18:58 AM,adsp22_mim7995,4/19/2022 6:18:58 AM,adsp22_mim7995,Birds chirping ,,Natural,,3,Under the palms,Outdoors,0,54.4339810883506,24.5239246389216
+101,8b74c882-8fb0-4295-ae40-0cca10d93246,4/19/2022 6:19:38 AM,adsp22_mim7995,4/19/2022 6:19:38 AM,adsp22_mim7995,2 girls talking  ,,Human,,2,Under the palms ,Outdoors,0,54.4340615969073,24.5240165616825
+102,844106f0-2550-45e6-96d8-aae3e2be8fcf,4/19/2022 11:11:14 AM,adsp22_gkm267,4/19/2022 11:11:14 AM,adsp22_gkm267,Pipes?,,Machine,,2,,Indoors,2,54.434711630205,24.5246608458883
+103,e1e2a528-c0b6-41db-8df0-26f98a1fba2e,4/19/2022 12:06:50 PM,adsp22_met448,4/19/2022 12:06:50 PM,adsp22_met448,Wind,,Natural,,Faint 1,,Indoors,4,0,0
+104,70857257-5553-43cb-b669-2fc9da90556c,4/20/2022 7:21:36 AM,adsp22_mim7995,4/20/2022 7:21:36 AM,adsp22_mim7995,Huge vehicles/trucks ,,Machine,,4,Near palms ,Outdoors,0,54.4342854301242,24.5241231390631
+105,34a0c1a8-1eba-48b1-ba54-5ce9b1d52b1b,4/20/2022 7:22:43 AM,adsp22_mim7995,4/20/2022 7:22:43 AM,adsp22_mim7995,Birds chirping ,,Natural,,4,Palms ,Outdoors,0,54.4339485312926,24.5239832971782
+106,1a03f908-f4ed-4e7e-9f5e-290bccc88c63,4/20/2022 8:55:52 AM,adsp22_ka1914,4/20/2022 8:55:52 AM,adsp22_ka1914,Wok,,Human,,4,Sound of throwing wok from the amishi mishi counter ,Indoors,2,54.4343762879348,24.5239135100124
+107,df278a6e-8c66-4667-b13b-6be3c1dee7fe,4/20/2022 8:56:53 AM,adsp22_ka1914,4/20/2022 8:56:53 AM,adsp22_ka1914,Frying,,Machine,,2,The frier at the Burro Blanco making faint sizzling sounds.,Indoors,2,54.43390575064,24.5243127406653
+108,d4fe7a3a-f4dd-4ada-86d1-25f8f7e4db62,4/20/2022 1:21:30 PM,adsp22_pk2269,4/20/2022 1:21:30 PM,adsp22_pk2269,Arabian Music,,Machine,,2,enjoyable to listen,Indoors,0,54.4328617,24.5252206
+109,1d0ba243-41a4-48f2-908c-18a5c64c828c,4/20/2022 1:22:08 PM,adsp22_pk2269,4/20/2022 1:22:08 PM,adsp22_pk2269,sound of cutlery,,Human,,3,chefs cooking,Indoors,0,54.4328502,24.525214
+110,b95a47de-bc27-4289-99e3-1eb25f766bd4,4/20/2022 1:22:38 PM,adsp22_pk2269,4/20/2022 1:22:38 PM,adsp22_pk2269,oven beeping,,Machine,,2,beeping from oven,Indoors,0,54.4328467,24.5252084
+111,064fb115-3d43-4685-9b8c-341718d1ff05,4/20/2022 4:46:12 PM,adsp22_ss13189,4/20/2022 4:46:12 PM,adsp22_ss13189,cheering,,Human,,4,,Indoors,3,54.4349014,24.5229819
+112,14699e62-78dc-40e7-bd3b-f47f51d3834f,4/20/2022 4:46:51 PM,adsp22_ss13189,4/20/2022 4:46:51 PM,adsp22_ss13189,clicking,,Machine,,2,,Indoors,3,54.4348908,24.5229835
+113,6044f773-b26b-4c16-a39a-f1d07a17cafd,4/20/2022 5:12:03 PM,adsp22_gkm267,4/20/2022 5:12:03 PM,adsp22_gkm267,Ticking,,Machine,,2,,Indoors,2,54.4345384736847,24.5237614989628
+114,253aa7cf-3be8-4cf2-afdb-09a8cb9d745e,4/20/2022 5:17:07 PM,adsp22_gkm267,4/20/2022 5:17:07 PM,adsp22_gkm267,Exhaust fancy ,,Machine,,3,,Indoors,0,54.4346492104113,24.5236952567286
+115,3c0bd5bf-88ae-4c8e-b5d0-1c2b48ebe8b2,4/20/2022 7:11:36 PM,adsp22_amd1139,4/20/2022 7:11:36 PM,adsp22_amd1139,Music ,,Human,,Loud 5,Neighbour A2C ,Indoors,7,54.433107206309,24.5240947609664
+116,cb90fe5c-a647-44f3-b49c-6421dc6ba6c5,4/20/2022 7:34:45 PM,adsp22_mim7995,4/20/2022 7:34:45 PM,adsp22_mim7995,AC in my room,,Machine,,Loud 5,I’m alone in my dorm room and the AC is on,Indoors,4,54.4345037738813,24.5234570522476
+117,edb8ec9f-5bf2-4942-92c2-3235b90597a1,4/20/2022 7:36:24 PM,adsp22_mim7995,4/20/2022 7:36:24 PM,adsp22_mim7995,singing,,Human,,4,People were singing for an event by the palms at 8pm,Outdoors,0,54.4345769812695,24.5234575404959
+118,60fcb904-a327-4c57-9ac2-854d2faa4808,4/21/2022 5:04:20 AM,adsp22_gkm267,4/21/2022 5:04:20 AM,adsp22_gkm267,Chainsaw,,Machine,,3,,Outdoors,2,54.4344826461764,24.5225932626211
+119,e5131755-1a8e-418d-9d20-38da652e28cb,4/21/2022 5:04:25 AM,adsp22_gkm267,4/21/2022 5:04:25 AM,adsp22_gkm267,Birds chirping,,Natural,,2,,Outdoors,2,54.4347261916545,24.5232515182853
+120,8eb5206a-0dd9-4d78-baf4-0fad1211a112,4/21/2022 5:04:27 AM,adsp22_gkm267,4/21/2022 5:04:27 AM,adsp22_gkm267,Ventilation ,,Machine,,2,,Outdoors,2,54.4343952472434,24.5234314630946
+121,70dd1255-2807-469c-a20c-0bbdec278536,4/21/2022 5:04:29 AM,adsp22_gkm267,4/21/2022 5:04:29 AM,adsp22_gkm267,Cars,,Machine,,Faint 1,,Outdoors,0,54.4341935739085,24.5238674198845
+122,4c2b649d-1884-4fbb-8dee-675ecded58b9,4/21/2022 5:04:30 AM,adsp22_gkm267,4/21/2022 5:04:30 AM,adsp22_gkm267,Birds,,Natural,,2,,Outdoors,0,54.4340848285277,24.5240648431796
+123,046975b3-14f3-4570-a644-31959e586f3c,4/21/2022 5:04:33 AM,adsp22_gkm267,4/21/2022 5:04:33 AM,adsp22_gkm267,Fountain,,Machine,,2,,Outdoors,0,54.434060889912,24.5242708388967
+124,0d122189-41a7-4181-99bf-8d37e2eda878,4/21/2022 5:06:31 AM,adsp22_ka1914,4/21/2022 5:06:31 AM,adsp22_ka1914,janitor brushing,,Human,,Faint 1, This is the sound of a janitor cleaning and brushing the stairs,Outdoors,1,54.4343037531287,24.5237052859967
+125,9e787608-4509-4bc5-b00b-74e5c488a003,4/21/2022 5:07:01 AM,adsp22_pk2269,4/21/2022 5:07:01 AM,adsp22_pk2269,Professor Wrisley talkimg,,Human,,Loud 5,nope,Indoors,0,54.4334176,24.5243946
+126,e897cd87-1386-4a3a-becf-b20dfacc887c,4/21/2022 5:16:48 AM,adsp22_mim7995,4/21/2022 5:16:48 AM,adsp22_mim7995,Professor speaking  ,,Human,,Loud 5,A2 classroom,Indoors,0,54.433931954081,24.5237348651531
+127,85d92324-1bc4-42e2-bb17-b6cca2b6fa7c,4/21/2022 5:18:08 AM,adsp22_mim7995,4/21/2022 5:18:08 AM,adsp22_mim7995,Keyboard typing ,,Machine,,2,A student was typing on keyboard beside me in class ,Indoors,0,54.433931954081,24.5237348651531
+128,32733413-d34b-451a-805a-6fd0c164e5bd,4/21/2022 6:22:15 AM,djw12_nyuad,4/21/2022 6:22:15 AM,djw12_nyuad,Sawsconstruction noise from outaide campus,,Machine,,4,Construction noise from across the street ,Outdoors,0,54.4333376512617,24.5238618493101
+129,cf6cad67-4751-4692-8710-fa65c5604a01,4/21/2022 6:24:49 AM,djw12_nyuad,4/21/2022 6:24:49 AM,djw12_nyuad,One bird much louder than others,,Natural,,3,Distinctively different bird than those in the palms ,Outdoors,0,54.4336546887459,24.5241148811835
+130,dd47a0e1-6a71-4853-90df-bed23f165ff9,4/21/2022 6:26:34 AM,djw12_nyuad,4/21/2022 6:26:34 AM,djw12_nyuad,Slippers of passing person ,,Human,,2,Fast walking ,Indoors,0,54.4343020085235,24.5241401237874
+131,adf9951d-224a-479c-be5b-ec87fe94bbab,4/21/2022 6:27:29 AM,djw12_nyuad,4/21/2022 6:27:29 AM,djw12_nyuad,Chatter in elevator,,Human,,2,Masked people,Indoors,1,54.4344038079304,24.5238019126844
+132,e1133eaa-57c0-494b-9337-62e232dbb176,4/21/2022 6:29:21 AM,djw12_nyuad,4/21/2022 6:29:21 AM,djw12_nyuad,Doors automatically closing ,,Machine,,2,Shutting of door and beeping of keycard,Indoors,1,54.4347745784889,24.5237977396827
+133,5079e65d-aac2-4472-85f5-8a39523eb2be,4/21/2022 6:30:56 AM,djw12_nyuad,4/21/2022 6:30:56 AM,djw12_nyuad,Toilet flushed ,,Machine,,3,Seems longer than flushing noise I have usually heard ,Indoors,1,54.4343763051006,24.5238476301245
+134,710bc2ff-3fca-47bc-a637-332c1adafa83,4/21/2022 6:35:17 AM,djw12_nyuad,4/21/2022 6:35:17 AM,djw12_nyuad,Children playing,,Human,,3,,Outdoors,1,54.4353308220675,24.5236921878747
+135,26252258-09f0-4cdd-afde-8683c884b480,4/21/2022 6:36:22 AM,djw12_nyuad,4/21/2022 6:36:22 AM,djw12_nyuad,Nannies speaking to children ,,Human,,2,So many different accents and languages,Outdoors,1,54.4357922223548,24.5237858560143
+136,74049c23-e6d8-4e71-8a6c-8d8285f302cd,4/21/2022 6:38:32 AM,djw12_nyuad,4/21/2022 6:38:32 AM,djw12_nyuad,Mostly birds chirping ,,Natural,,Faint 1,Calm spot,Outdoors,1,54.4356010934217,24.5233323242148
+137,a9738b8a-cc55-4ed7-829f-55a28fdb699b,4/21/2022 6:39:42 AM,djw12_nyuad,4/21/2022 6:39:42 AM,djw12_nyuad,High pressure water guns,,Machine,,2,Washing buildings,Outdoors,1,54.4358937554791,24.5230954548602
+138,d9b9d1c0-9db2-46af-b7be-068f24c4511d,4/21/2022 6:42:33 AM,djw12_nyuad,4/21/2022 6:42:33 AM,djw12_nyuad,Humming of neon lighting,,Machine,,Faint 1,Basement 2 parking ,Indoors,0,54.4360691398096,24.5240077041218
+139,a592de2d-fc6e-44f2-86a5-95c4c7216ea8,4/21/2022 6:44:30 AM,djw12_nyuad,4/21/2022 6:44:30 AM,djw12_nyuad,Rolling cart,,Machine,,Faint 1,Basement 2. Transporting cart for equipment ,Indoors,0,54.4349675441402,24.5233833132746
+140,e3f8965c-e522-43a7-93c8-3717fa2fa707,4/21/2022 9:18:16 AM,adsp22_ka1914,4/21/2022 9:18:16 AM,adsp22_ka1914,Birds chirping ,,Natural,,3,,Outdoors,2,54.434616996754,24.5233212318428
+141,eb7730df-8687-41a7-99fc-e972edec0171,4/21/2022 9:19:37 AM,adsp22_ka1914,4/21/2022 9:19:37 AM,adsp22_ka1914,Elevator arriving ,,Machine,,Loud 5,Elevator arrival sound at the high line elevators ,Indoors,2,54.4350068862056,24.5235676956744
+142,99b08ccb-c484-4f51-a401-60e6be9dbd0d,4/21/2022 9:19:57 AM,adsp22_ka1914,4/21/2022 9:19:57 AM,adsp22_ka1914,Ping pong ,,Human,,Loud 5,Ping pong in the Baraha,Indoors,2,54.4345331436166,24.5238482571798
+143,a8d1b886-547a-43f5-b547-61c8cd362008,4/21/2022 9:21:22 AM,adsp22_ka1914,4/21/2022 9:21:22 AM,adsp22_ka1914,Cue ball hit ,,other,"A human player strikes the cue  ball, which then hits other balls",3,Sound from the Baraha,Indoors,2,54.4341760129243,24.5234811538986
+144,9821e922-2738-4c0b-bef0-65658d137b87,4/21/2022 8:19:43 PM,adsp22_po524,4/21/2022 8:19:43 PM,adsp22_po524,Service workers in ERB,,Human,,3,The voices of service workers in ERB ,Indoors,0,54.4346199,24.52326202
+145,89951108-6d30-4a67-b562-0c8ef24a703c,4/21/2022 8:20:43 PM,adsp22_po524,4/21/2022 8:20:43 PM,adsp22_po524,My alarm for data collection,,Machine,,4,I set an alarm to collect these data and it just rang,Indoors,0,54.4346199,24.52326202
+146,f5b2ca71-81c6-4d7a-87b1-848053efc46e,4/22/2022 8:18:47 AM,adsp22_as13966,4/22/2022 8:18:47 AM,adsp22_as13966,Fountain,,Machine,,3,,Outdoors,0,54.4351460831457,24.5232103573418
+147,5226ff45-d2bb-4e4d-9b37-b8e379765ea1,4/22/2022 10:20:29 AM,adsp22_mim7995,4/22/2022 10:20:29 AM,adsp22_mim7995,Birds chirping ,,Natural,,4,Near D1,Outdoors,0,54.4331780631082,24.5248940007478
+148,0ccd3895-5650-43d0-b74e-d0f22df9d691,4/22/2022 10:23:26 AM,adsp22_mim7995,4/22/2022 10:23:26 AM,adsp22_mim7995,footsteps ,,Human,,4,Near A2 ,Outdoors,0,54.4336297312323,24.5252491127248
+149,a41b2713-e4f6-40ff-959e-a27791b05a6c,4/22/2022 10:26:08 AM,adsp22_mim7995,4/22/2022 10:26:08 AM,adsp22_mim7995,Water Fountains near palms ,,Machine,,4,,Outdoors,0,54.4335548582777,24.5244771226096
+150,20cd56b3-014f-479a-bbb8-428b7ed0eb3e,4/22/2022 10:27:12 AM,adsp22_mim7995,4/22/2022 10:27:12 AM,adsp22_mim7995,Someone talking,,Human,,4,Students talking while taking the antigen test ,Indoors,0,54.4346169169745,24.5236870725807
+151,e730c178-0d5f-4861-b91e-001538bb5422,4/22/2022 10:44:10 AM,adsp22_pk2269,4/22/2022 10:44:10 AM,adsp22_pk2269,machine faint noise,,Machine,,Faint 1,coming from afar,Indoors,2,54.4332201,24.5246171
+152,4c5a2de9-e7c6-4561-9398-61e8213cbbc6,4/22/2022 1:28:03 PM,adsp22_as13966,4/22/2022 1:28:03 PM,adsp22_as13966,A/C,,Machine,,Faint 1,,Indoors,2,54.4349735017648,24.5237380133242
+153,87b573b0-0a23-44a6-ae74-68d9ee95a08f,4/22/2022 1:41:47 PM,ADFA19_nks369,4/22/2022 1:41:47 PM,ADFA19_nks369,AC sound,,Machine,,Faint 1,,Indoors,3,54.4333151584341,24.5244549806522
+154,5bd0b0c6-0cba-4d04-a4fb-a354ec070bbc,4/22/2022 2:22:27 PM,adsp22_as13966,4/22/2022 2:22:27 PM,adsp22_as13966,Spotify music,,Machine,,4,,Indoors,2,54.4347595645948,24.5236585154449
+155,c94b7fec-59b6-44fd-a2be-440b449ad955,4/22/2022 8:02:04 PM,adsp22_pk2269,4/22/2022 8:02:04 PM,adsp22_pk2269,music playing,,Machine,,3,,Indoors,2,54.4342108,24.52435
+156,5ade3b28-637c-4e20-82f3-018b14abfd66,4/22/2022 8:02:42 PM,adsp22_pk2269,4/22/2022 8:02:42 PM,adsp22_pk2269,water cooler buzzing,,Machine,,2,,Indoors,2,54.4342402,24.5243423
+157,6d59201e-35cb-4275-bd0f-629b0ab788e1,4/22/2022 8:03:13 PM,adsp22_pk2269,4/22/2022 8:03:13 PM,adsp22_pk2269,people talking,,Human,,4,,Indoors,2,54.4342824,24.5243524
+158,9b727dec-dd7c-4048-8856-49a1c7346c66,4/22/2022 8:07:48 PM,adsp22_pk2269,4/22/2022 8:07:48 PM,adsp22_pk2269,freezer sound,,Machine,,2,,Indoors,2,54.4340046,24.5244331
+159,8a43507f-d677-4b39-9cc2-e5558dd5f9ef,4/22/2022 8:08:36 PM,adsp22_pk2269,4/22/2022 8:08:36 PM,adsp22_pk2269,footstepsbfrom slipper,,Human,,Faint 1,,Indoors,2,54.4340165,24.5244389
+160,296057e9-a394-473b-ada8-e1c5b03734a1,4/22/2022 9:12:22 PM,adsp22_pk2269,4/22/2022 9:12:22 PM,adsp22_pk2269,door close,,Human,,3,my roommate,Indoors,6,54.4332365,24.5246378
+161,bcf1b0fd-2539-40b8-b958-cd69030477f5,4/22/2022 9:12:44 PM,adsp22_pk2269,4/22/2022 9:12:44 PM,adsp22_pk2269,waedrobe door,,Human,,3,,Indoors,6,54.4332569,24.5245217
+162,526c2077-3c64-4c16-9112-5e6b5ce8ccfb,4/22/2022 9:14:42 PM,adsp22_pk2269,4/22/2022 9:14:42 PM,adsp22_pk2269,cough,,Human,,3,me,Indoors,6,54.4332411,24.5246084
+163,11d3210d-a6a4-4e37-a991-1a733c4eea0f,4/22/2022 9:38:52 PM,adsp22_po524,4/22/2022 9:38:52 PM,adsp22_po524,Music,,Human,,3,,Indoors,0,0,0
+164,7146e3b6-a627-47a7-bd52-dd0d20abff35,4/23/2022 7:18:19 AM,adsp22_as13966,4/23/2022 7:18:19 AM,adsp22_as13966,AV equipment,,Machine,,Faint 1,,Indoors,2,54.4347534531438,24.5236980596735
+165,817eaa90-8682-48bd-8f0d-7d72afb5261b,4/23/2022 8:22:18 AM,adsp22_pk2269,4/23/2022 8:22:18 AM,adsp22_pk2269,air con from a distanc2,,Machine,,Faint 1,,Indoors,6,54.4332392,24.524642
+166,d201f135-e97b-42e3-9667-7cc30851c5ba,4/23/2022 1:01:10 PM,adsp22_po524,4/23/2022 1:01:10 PM,adsp22_po524,White ax boise,,Machine,,Faint 1,No,Indoors,0,54.4341443275965,24.5237365191839
+167,7ce31b22-1c91-4f87-a026-50e436f14f24,4/23/2022 1:01:46 PM,adsp22_po524,4/23/2022 1:01:46 PM,adsp22_po524,My screams at my CS assignment,,Human,,4,I was frustrated ,Indoors,0,54.4341045353225,24.5237009608394
+168,6ce2cc57-054b-4323-b193-1f81db11cc49,4/23/2022 1:58:59 PM,adsp22_as13966,4/23/2022 1:58:59 PM,adsp22_as13966,Students laughing,,Human,,3,,Indoors,2,54.4348450896284,24.5238821135058
+169,8f34f8b8-69bf-4dee-8244-dd9f906534ff,4/24/2022 12:00:33 AM,adsp22_po524,4/24/2022 12:00:33 AM,adsp22_po524,Burds chirping,,Natural,,2,The freaking birds are here to remind me that I sleep late,Outdoors,0,54.4343210198492,24.5238463534271
+170,cfcd8aaf-101d-49eb-9d3c-71797ff71606,4/24/2022 12:20:48 AM,adsp22_pk2269,4/24/2022 12:20:48 AM,adsp22_pk2269,birdz,,Natural,,Faint 1,,Indoors,6,54.4332387,24.5246296
+171,b3f97389-15cd-44fe-9dc6-035465df8d08,4/24/2022 12:22:22 AM,adsp22_pk2269,4/24/2022 12:22:22 AM,adsp22_pk2269,distant air con,,Machine,,Faint 1,,Indoors,6,54.4332428,24.5246386
+172,d9e2b695-1091-4db2-8462-9efd26180cc0,4/24/2022 4:34:29 PM,adsp22_as13966,4/24/2022 4:34:29 PM,adsp22_as13966,Fork scraping plate,,Machine,,2,,Indoors,0,54.4355541348439,24.5230123156158
+173,5e006503-b9e0-4fd8-9924-c66c489fc9f4,4/24/2022 5:06:08 PM,adsp22_as13966,4/24/2022 5:06:08 PM,adsp22_as13966,Açaí bowl preparation,,Human,,2,,Indoors,0,54.4355616507663,24.5230064558108
+174,25efc56f-d96d-402a-8081-4a6869d96309,4/24/2022 6:08:32 PM,adsp22_pk2269,4/24/2022 6:08:32 PM,adsp22_pk2269,laptop fan,,Machine,,Faint 1,maybe I am woeking too much on my laptop,Indoors,6,54.4331378,24.524727
+175,e25848e0-c903-43ae-b358-bb191d70175d,4/24/2022 6:08:51 PM,adsp22_pk2269,4/24/2022 6:08:51 PM,adsp22_pk2269,crickets,,Natural,,2,,Outdoors,2,54.4331872,24.5246464
+176,d3a96c85-8fdb-4768-8351-83f687926b79,4/24/2022 6:14:49 PM,adsp22_pk2269,4/24/2022 6:14:49 PM,adsp22_pk2269,bamboo flute,,Human,,,me playing the flute,Indoors,6,54.4331999,24.5246428
+177,ae4c6149-44ec-4693-a7c5-7d4c05d9e5b7,4/24/2022 6:15:11 PM,adsp22_pk2269,4/24/2022 6:15:11 PM,adsp22_pk2269,air con,,Machine,,Faint 1,,Indoors,6,54.433184,24.5246445
+178,3aa13533-514c-4cad-979f-b55c301edcb7,4/25/2022 7:44:41 AM,adsp22_mim7995,4/25/2022 7:44:41 AM,adsp22_mim7995,Water fountain ,,Machine,,4,Near A2,Outdoors,0,54.433626261887,24.5244939005875
+179,77aba64f-8852-4368-b6ff-f2c3bbc942c7,4/25/2022 7:45:41 AM,adsp22_mim7995,4/25/2022 7:45:41 AM,adsp22_mim7995,Footsteps,,Human,,3, beside class in A2,Indoors,0,54.4336007145421,24.5242699433708
+180,dab6b7ae-e735-4be8-9af4-829daede34c0,4/25/2022 7:46:51 AM,adsp22_mim7995,4/25/2022 7:46:51 AM,adsp22_mim7995,ID scanner for class,,Machine,,Loud 5,A2 11:50am,Indoors,0,54.433931954081,24.5237348651531
+181,53da96a0-4949-4523-afc7-7f6320644c4a,4/25/2022 9:09:55 AM,adsp22_mim7995,4/25/2022 9:09:55 AM,adsp22_mim7995,"Crowd, footsteps ",,Human,,4,Students moving around after class,Indoors,0,54.4341260470557,24.5240568792485
+182,1d16f692-8da4-41c3-bbbb-3e12f6274ad8,4/25/2022 9:11:18 AM,adsp22_mim7995,4/25/2022 9:11:18 AM,adsp22_mim7995,Birds chirping ,,Natural,,4,Palms,Outdoors,0,54.4341123106277,24.5240708158507
+183,e6e454b5-0953-42e2-8b82-e2411ab88919,4/25/2022 9:12:20 AM,adsp22_mim7995,4/25/2022 9:12:20 AM,adsp22_mim7995,Ping pong playing ,,Human,,4,Baraha ,Indoors,2,54.43448648406,24.5237759915225
+184,da884f64-bf62-4484-8f7e-f06983aeb3d6,4/25/2022 9:13:50 AM,adsp22_mim7995,4/25/2022 9:13:50 AM,adsp22_mim7995,Bird noises ,,Natural,,Faint 1,Highline near A5A,Outdoors,2,54.4349358781003,24.5235312165811
+185,2a9a600e-0c57-4c9a-aa9b-3093a13e9405,4/25/2022 9:16:12 AM,adsp22_mim7995,4/25/2022 9:16:12 AM,adsp22_mim7995,Building doors ,,Machine,,4,"Highline, people closing and opening building doors ",Outdoors,2,54.4344707237023,24.5233265084632
+186,7e5396f6-cfec-404b-8884-db64f03b2c4f,4/25/2022 11:55:17 AM,adsp22_mf3846,4/28/2022 9:38:40 AM,adsp22_mf3846,construction noise,,Machine,,Loud 5,"technically sound is from machines / objects, but the creation of the sound is governed by humans",Outdoors,0,54.4337555765957,24.5233244248407
+187,2818915f-3039-4d7e-bcb4-901721727093,4/25/2022 12:13:32 PM,adsp22_mf3846,4/28/2022 9:50:42 AM,adsp22_mf3846,AC,,Machine,,2,"Mixed typea of sounds noticed, different kinds of sounds come at different frequencies",Indoors,3,54.434702396379,24.5236038335349
+188,11305004-01e9-4bfe-8eb6-c51eee7afd2b,4/25/2022 12:29:27 PM,adsp22_mf3846,4/28/2022 9:46:45 AM,adsp22_mf3846,water runing (fountain),,Natural,,4,next to welcome center; noticed how sounds was changing as you keep walking towards palms; I selected natural cause it's water but ??? fountain is a human made thing,Outdoors,0,54.4336992502075,24.5234452173221
+189,86c8c226-8824-4a44-8e6d-dbe76368e638,4/25/2022 12:30:48 PM,adsp22_mf3846,4/28/2022 9:46:39 AM,adsp22_mf3846,flags creaking,,other,sound from object (metal flag holder) but it is the wind that is moving the flag and creating the sound,3,walkway from WC to palms,Outdoors,0,54.4337555765969,24.5235208650791
+190,0013fd99-5a1b-48aa-8924-301c88ec0735,4/25/2022 12:32:06 PM,adsp22_mf3846,4/28/2022 9:47:00 AM,adsp22_mf3846,water flowing (fountain),,Natural,,2,fountain next to WC towards palms; this is a record of the sound near palms which is different than the sound at the end of the fountain near WC,Outdoors,0,54.4340184330802,24.5237722105267
+191,81e199b0-06e8-4cf8-8c1a-baaa22870ef0,4/25/2022 12:33:26 PM,adsp22_mf3846,4/28/2022 9:46:33 AM,adsp22_mf3846,birds chirping,,other,are the birds real :)))))) I saw no birds but the sounds were really loud so you decide :),4,near palms; no people so birds were the only conversation happening,Outdoors,0,54.434176683412,24.5238624995451
+192,ba61dbfe-1ddf-4feb-863f-37174384371c,4/25/2022 12:34:07 PM,adsp22_mf3846,4/28/2022 9:47:45 AM,adsp22_mf3846,varoius fridges near and distant,,Machine,,2,ERB labs / sound is in background,Indoors,0,54.4334766268595,24.5253656801533
+193,eaa4c684-f7c4-409f-8905-cc78fefab122,4/25/2022 12:34:54 PM,adsp22_mf3846,4/28/2022 9:48:10 AM,adsp22_mf3846,fridge alarms beeping ,,Machine,,Loud 5,ERB lab; painful sound; people really need to adjust the temperature for their fridge alarms :(,Indoors,0,54.4335195422036,24.5253315171575
+194,a0c493e7-0c59-4091-8586-301b8d6bddb9,4/25/2022 12:37:09 PM,adsp22_mf3846,4/28/2022 9:50:28 AM,adsp22_mf3846,music muffled and distant,,other,"some human singing, but some is just recorded music played on speakers",4,"event on palms, I hear the music inside and can't focus",Indoors,3,54.4346728920799,24.5236062737829
+195,e170b393-5a52-4679-8e09-3b01b66f84f2,4/25/2022 12:38:07 PM,adsp22_mf3846,4/28/2022 9:52:36 AM,adsp22_mf3846,many mixed conversations,,Human,,Loud 5,D2 noise during meal time; D2 is my nightmare; I want to cry every time I go to d2 cause it's so loud and frustrating and I can't stand it,Indoors,0,54.4358436763147,24.5227131398965
+196,e9d33b5d-7dce-4e2d-8427-774f7c75d0e8,4/25/2022 12:39:19 PM,adsp22_mf3846,4/28/2022 9:51:52 AM,adsp22_mf3846,cashier asking question to me,,Human,,2,"the background noise was at 5, it was so painful to understand what the cashier was asking",Indoors,0,54.4358684867479,24.5227698760493
+197,fc332641-ebe7-44fd-818c-b47c8210b403,4/25/2022 1:34:54 PM,ADFA19_nks369,4/25/2022 1:34:54 PM,ADFA19_nks369,Footsteps on stairs ,,Human,,2,,Indoors,2,54.434121322511,24.5240901392939
+198,13b45a9d-58c6-475b-abdf-8f8059c11877,4/25/2022 1:38:53 PM,ADFA19_nks369,4/25/2022 1:38:53 PM,ADFA19_nks369,Clashing dishes in the kitchen ,,other,Metalic objects,3,,Indoors,2,54.4337879638978,24.5243753288979
+199,a7d9aeff-16b7-459f-af94-a9001948e35b,4/25/2022 2:11:26 PM,adsp22_pk2269,4/25/2022 2:11:26 PM,adsp22_pk2269,Air con,,Machine,,4,,Indoors,6,54.4332357,24.5246384
+200,74a8f4a8-d2c4-4738-b30c-7455bb1cd164,4/25/2022 3:40:10 PM,adsp22_as13966,4/25/2022 3:40:10 PM,adsp22_as13966,Laundry machine,,Machine,,2,,Indoors,2,54.4352600341471,24.5227427248782
+201,f959d0d9-3203-493c-b0f6-0e1426688731,4/25/2022 3:40:48 PM,adsp22_as13966,4/25/2022 3:40:48 PM,adsp22_as13966,Students walking ,,Human,,Faint 1,,Outdoors,2,54.4349358324468,24.5229203207647
+202,49a26df4-d393-4dab-be3c-bedad93cc5f5,4/25/2022 3:41:13 PM,adsp22_as13966,4/25/2022 3:41:13 PM,adsp22_as13966,Water spraying grass,,Machine,,2,,Outdoors,0,54.4351565152983,24.5229170272709
+203,f050917b-ff01-4174-b557-1999f3dac0bf,4/25/2022 3:52:45 PM,adsp22_ka1914,4/25/2022 3:52:45 PM,adsp22_ka1914,Sizzling,,other,Cooking,2,Sizzling grill at D2,Indoors,0,54.4355597353016,24.5230063217708
+204,93ae58c8-7b8d-4b8b-87b1-2b30fd8f593c,4/25/2022 3:53:28 PM,adsp22_ka1914,4/25/2022 3:53:28 PM,adsp22_ka1914,Utensils clinking ,,Human,,2,Metal utensils at D2 clinking ,Indoors,0,54.4355593453825,24.5230051248692
+205,4aaa5461-0351-4729-bca9-f345fd153ef4,4/25/2022 4:03:50 PM,adsp22_gkm267,4/25/2022 4:03:50 PM,adsp22_gkm267,Food order,,Human,,3,,Indoors,0,54.4354252711243,24.5227599044007
+206,9c0244a0-048b-433e-8eac-4c361c729a32,4/25/2022 4:03:51 PM,adsp22_gkm267,4/25/2022 4:03:51 PM,adsp22_gkm267,Fridge ,,Machine,,3,,Indoors,0,54.4352397325841,24.522436833466
+207,ae2092e1-b71f-4d2e-9727-770864babb31,4/25/2022 5:48:26 PM,adsp22_ss13189,4/25/2022 5:48:26 PM,adsp22_ss13189,elevator beep,,Machine,,2,,Indoors,2,54.4357945,24.5228993
+208,2098f904-030b-4865-953e-6f9ac40f5c1e,4/25/2022 5:50:38 PM,adsp22_ss13189,4/25/2022 5:50:38 PM,adsp22_ss13189,talkers,,Human,,Loud 5,,Outdoors,2,54.4357346,24.5223901
+209,77024101-bb41-4324-a732-e0d1db86e579,4/25/2022 5:51:28 PM,adsp22_ss13189,4/25/2022 5:51:28 PM,adsp22_ss13189,skateboard dropping,,Human,,2,,Outdoors,2,54.4352727,24.5224129
+210,fcf3a205-aebd-4365-bf67-b7cd83098fd3,4/25/2022 6:23:20 PM,ADFA19_nks369,4/25/2022 6:23:20 PM,ADFA19_nks369,Water boiling in a kettle ,,Machine,,2,,Indoors,3,54.4332930959765,24.5243357664176
+212,61d4dd72-0687-47eb-a931-2627e93d0315,4/26/2022 6:19:45 AM,adsp22_mf3846,4/28/2022 9:37:00 AM,adsp22_mf3846,Birds ,,Natural,,4,"Outside D2. Saw the birds, they really are loud...",Outdoors,0,54.4355921031451,24.5231076845358
+213,e32fce1c-8034-404b-8754-d08dbf693d7f,4/26/2022 6:20:14 AM,adsp22_mf3846,4/28/2022 9:37:09 AM,adsp22_mf3846,Water fountain,,Natural,,Loud 5,near arts centre,Outdoors,0,54.4353791246755,24.5232172037136
+214,21e6240d-62ab-434d-8eab-a591187b90f6,4/26/2022 6:20:50 AM,adsp22_mf3846,4/28/2022 9:36:38 AM,adsp22_mf3846,Machine buzzing,,Machine,,Loud 5,,Outdoors,2,54.4349451712332,24.5234426441557
+215,5bf009c8-81e8-42c1-b14a-a9c4c31542aa,4/26/2022 6:22:56 AM,adsp22_mf3846,4/28/2022 9:51:46 AM,adsp22_mf3846,Cutlery clacking,,Human,,3,Lota of cutlery,Indoors,0,54.4358170891628,24.5227862262179
+216,6bc06601-b0fc-4ad7-86a1-c0528b72cf14,4/26/2022 6:23:31 AM,adsp22_mim7995,4/26/2022 6:23:31 AM,adsp22_mim7995,AC,,Machine,,2,Floor or my dorm hallway ,Indoors,4,54.4345834541311,24.5236113228313
+217,a05662c9-90b5-46c5-b1b6-0dfbbb6a8618,4/26/2022 6:25:11 AM,adsp22_mim7995,4/26/2022 6:25:11 AM,adsp22_mim7995,Insect sounds,,Natural,,3,Highline beside a5a,Outdoors,2,54.434556546036,24.5233455103727
+218,916d05b6-bf42-429b-ac01-5ab081e36ac3,4/26/2022 6:25:52 AM,adsp22_mim7995,4/26/2022 6:25:52 AM,adsp22_mim7995,Car noises,,Machine,,4,Beside palms ,Outdoors,0,54.4339693121974,24.5239767314288
+219,3206e30b-92ec-4202-b002-b8520812a5b9,4/26/2022 6:26:35 AM,adsp22_mim7995,4/26/2022 6:26:35 AM,adsp22_mim7995,Water fountains ,,Machine,,4,Beside a2,Outdoors,0,54.4337104902406,24.5244378803167
+220,2320247c-289f-427d-b070-fa78d828fcf2,4/26/2022 7:50:40 AM,adsp22_mim7995,4/26/2022 7:50:40 AM,adsp22_mim7995,Friends ,,Human,,Loud 5,Friends talking after class beside palms ,Outdoors,0,54.4342097363553,24.5241500417238
+221,56fbbf26-38ad-4ccc-86f6-62708e51bdac,4/26/2022 7:51:27 AM,adsp22_mim7995,4/26/2022 7:51:27 AM,adsp22_mim7995,Birds chirping ,,Natural,,Loud 5,Palms,Outdoors,0,54.4341469284406,24.5240947284856
+222,57d83bad-c353-490c-bafc-64e440861640,4/26/2022 7:53:16 AM,adsp22_mim7995,4/26/2022 7:53:16 AM,adsp22_mim7995,Friend imitating a cat ,,Human,,Loud 5,Palms,Outdoors,0,54.4342105142006,24.5241151896009
+223,f86bfb89-3a2a-4e7a-9726-6aa9c8109d1e,4/26/2022 8:39:13 AM,adsp22_mim7995,4/26/2022 8:39:13 AM,adsp22_mim7995,AC in dorm room ,,Machine,,4,,Indoors,4,54.4345601047154,24.523606340029
+224,5094709f-3827-4110-98b7-10d3e89fb7b6,4/26/2022 9:08:48 AM,adsp22_kds490,4/26/2022 9:08:48 AM,adsp22_kds490,D2 Rush Hour ,,Human,,4,,Indoors,0,54.4355378137885,24.5230142461165
+225,133cfb3b-aa06-4980-a265-fda67ac0624f,4/26/2022 9:08:49 AM,adsp22_kds490,4/26/2022 9:08:49 AM,adsp22_kds490,Clicking of keypads in library,,Human,,2,,Indoors,3,54.4345102516001,24.5242681986062
+226,da3d2535-d49f-4567-ba80-6d753a7a3cd7,4/26/2022 9:20:07 AM,adsp22_ss13189,4/26/2022 9:20:07 AM,adsp22_ss13189,coughing,,Human,,2,,Indoors,3,54.4344206,24.5241277
+227,6e8788b3-f8fb-4654-b469-cffa31d8ea24,4/26/2022 9:25:54 AM,adsp22_mim7995,4/26/2022 9:25:54 AM,adsp22_mim7995,Keyboard clicking  ,,Machine,,4,,Indoors,1,54.4338351678461,24.5239577516418
+228,28752746-8b59-4166-9485-069d6861e550,4/26/2022 9:34:48 PM,adsp22_ntn6039,4/26/2022 9:34:48 PM,adsp22_ntn6039,Keyboard clicks,,Machine,,2,In the edit lab,Indoors,0,54.4356394647169,24.5237817488271
+229,57fd3bae-fb43-4659-a218-9fe722c4d561,4/26/2022 9:35:27 PM,adsp22_ntn6039,4/26/2022 9:35:27 PM,adsp22_ntn6039,AC blasting,,Machine,,Faint 1,In art center,Indoors,0,54.4356089016034,24.52377097147
+230,ebac71de-181c-4dc7-aefc-10aac8d2cd3c,4/27/2022 4:33:51 AM,adsp22_as13966,4/27/2022 4:33:51 AM,adsp22_as13966,Grass cutting,,Machine,,4,,Outdoors,2,54.4349101000041,24.5231506973733
+231,b313add7-1396-4688-aa92-4002438eb341,4/27/2022 5:42:26 AM,ADFA19_nks369,4/27/2022 5:42:26 AM,ADFA19_nks369,ATM beeping,,Machine,,2,,Indoors,0,54.4341476597391,24.523957518059
+232,71fc28c6-752f-4fc4-ae62-dcd4914bb222,4/27/2022 1:01:44 PM,adsp22_po524,4/27/2022 1:01:44 PM,adsp22_po524,The students in the lab are screaming ,,Human,,Loud 5,Something spillws,Indoors,0,54.4349136289864,24.5234756408259
+233,46eec961-6c9c-4ffc-8eb5-fc60c081edfd,4/27/2022 1:01:45 PM,adsp22_po524,4/27/2022 1:01:45 PM,adsp22_po524,Motor sound,,Machine,,Faint 1,The sound of the elevator motor,Indoors,5,54.4344625472479,24.5227213043128
+234,7e064628-1f82-44a3-9624-23cb98408b52,4/27/2022 2:11:33 PM,adsp22_kds490,4/27/2022 2:11:33 PM,adsp22_kds490,Birds outside sushi counter ,,Natural,,2,,Outdoors,0,54.4321006066591,24.5250702860495
+235,44679929-8c9c-4d2a-8ca7-768688ab065a,4/27/2022 3:04:35 PM,adsp22_amd1139,4/27/2022 3:04:35 PM,adsp22_amd1139,Grill,,Machine,,3,D1,Indoors,0,54.4330310224263,24.5250187100143
+237,3a2b7534-0518-4776-ad74-fb48e2b48b74,4/27/2022 3:59:10 PM,adsp22_as13966,4/27/2022 3:59:10 PM,adsp22_as13966,Emirates customer service waiting line,,Machine,,2,,Indoors,2,54.4352487262449,24.5224073733387
+238,0d911d3b-f289-4481-899b-2607f0285b72,4/27/2022 5:48:21 PM,adsp22_ka1914,4/27/2022 5:48:21 PM,adsp22_ka1914,Air conditioning  ,,Machine,,Loud 5,The only thing I can hear.,Indoors,7,54.4343100368175,24.5230347874879
+239,95f96d2e-0ade-4f94-8d8e-0b7278c837eb,4/27/2022 5:48:22 PM,adsp22_ka1914,4/27/2022 5:48:22 PM,adsp22_ka1914,Helicopter,,Machine,,4,A helicopter passed by campus,Indoors,7,54.4340072659044,24.5229066163612
+240,499a27ac-fd0a-440b-88aa-4d446add0f3f,4/27/2022 9:07:41 PM,ADFA19_nks369,4/27/2022 9:07:41 PM,ADFA19_nks369,Flip flops,,Human,,2,,Indoors,3,54.4333180702804,24.5242940666434
+241,04c37c9c-3816-4a37-a01e-b7a53f1ae895,4/28/2022 4:19:29 AM,adsp22_pk2269,4/28/2022 4:19:29 AM,adsp22_pk2269,oud music,,Machine,,3,,Indoors,0,54.4358451,24.5228263
+242,0814d700-3a60-4a3c-9cf6-33a10a8632e6,4/28/2022 4:20:02 AM,adsp22_pk2269,4/28/2022 4:20:02 AM,adsp22_pk2269,cutlery,,Human,,Faint 1,,Indoors,0,54.4358479,24.5228315
+243,426f7745-0f10-4b14-92b6-acd7af52406a,4/28/2022 4:21:09 AM,adsp22_pk2269,4/28/2022 4:21:09 AM,adsp22_pk2269,chair movement,,Human,,2,,Indoors,0,54.4358456,24.5228356
+244,67d3dccf-8d60-4144-8b2c-b150cc89a234,4/28/2022 4:21:50 AM,adsp22_pk2269,4/28/2022 4:21:50 AM,adsp22_pk2269,stove,,Machine,,Faint 1,,Indoors,0,54.4358498,24.5228345
+245,73e32518-8d7b-4090-8c8e-13070e434491,4/28/2022 4:22:23 AM,adsp22_pk2269,4/28/2022 4:22:23 AM,adsp22_pk2269,humans speaking,,Human,,2,,Indoors,0,54.4358521,24.5228372
+246,6ed28dff-490e-4732-b488-557f01c7627e,4/28/2022 4:24:09 AM,adsp22_pk2269,4/28/2022 4:24:09 AM,adsp22_pk2269,my friend saying hello,,Human,,Faint 1,,Indoors,0,54.435853,24.5228358
+247,2450b66f-e525-4fce-92a5-635305fb9031,4/28/2022 4:25:03 AM,adsp22_pk2269,4/28/2022 4:25:03 AM,adsp22_pk2269,glass,,Human,,Faint 1,i accidently hit a glass,Indoors,0,54.4358464,24.5228305
+248,02eecb31-80cb-4f37-9496-9b7432bd4da4,4/28/2022 4:57:40 AM,adsp22_pk2269,4/28/2022 4:57:40 AM,adsp22_pk2269,server fans,,Machine,,Faint 1,,Indoors,0,54.4334161,24.5243959
+249,291377bb-4c27-4891-acb3-ae05d2cbdd6e,4/28/2022 4:57:45 AM,adsp22_ka1914,4/28/2022 4:57:45 AM,adsp22_ka1914,Oriental music,,Machine,,4,,Indoors,0,54.4352857161038,24.5229604918748
+250,0e2b4a21-cca4-43f5-838b-966f4766eee1,4/28/2022 4:58:08 AM,adsp22_pk2269,4/28/2022 4:58:08 AM,adsp22_pk2269,clock ticking,,Machine,,Faint 1,,Indoors,0,54.4334169,24.5243887
+251,3a7cb86b-9004-4cbc-96ea-48fa288a789d,4/28/2022 4:59:35 AM,adsp22_gkm267,4/28/2022 4:59:35 AM,adsp22_gkm267,Clocks ticking,,Machine,,2,,Indoors,2,54.4342818424575,24.5239113660734
+252,31cc8ec6-d60b-4e7c-9476-a801ef91c4e7,4/28/2022 4:59:36 AM,adsp22_gkm267,4/28/2022 4:59:36 AM,adsp22_gkm267,Exhaust fan,,Machine,,2,,Indoors,0,54.4344617565402,24.5236444322473
+253,6da6c6cb-ac22-43ed-b8e0-58e93273d063,4/28/2022 4:59:37 AM,adsp22_gkm267,4/28/2022 4:59:37 AM,adsp22_gkm267,Sizzling,,Natural,,2,,Indoors,0,54.4346960573443,24.5235110317444
+254,cd540484-b00c-4072-9dc4-f74d613f0978,4/28/2022 4:59:38 AM,adsp22_gkm267,4/28/2022 4:59:38 AM,adsp22_gkm267,Birds,,Natural,,2,,Outdoors,2,54.4351055797126,24.5225978097151
+255,4567074b-a96d-4b7c-b1e9-0c16321347d7,4/28/2022 4:59:39 AM,adsp22_gkm267,4/28/2022 4:59:39 AM,adsp22_gkm267,Airplane,,Machine,,Faint 1,,Outdoors,,54.4349540938262,24.5227831521922
+256,9cdaea7c-8bd0-4289-8473-f3669f6cad0d,4/28/2022 4:59:39 AM,adsp22_gkm267,4/28/2022 4:59:39 AM,adsp22_gkm267,Birds ,,Natural,,2,,Outdoors,,54.4340617783061,24.5242003230694
+257,9572ca64-847d-4032-be53-099f21d9f843,4/28/2022 5:00:43 AM,adsp22_kds490,4/28/2022 5:00:43 AM,adsp22_kds490,Sprinklers on highline,,Machine,,2,,Outdoors,0,54.4341553934425,24.5235912921136
+258,df916d22-dd81-4454-b24f-c0cd3f2f21d5,4/28/2022 5:01:51 AM,adsp22_mim7995,4/28/2022 6:17:34 AM,djw12_nyuad,AC,,Machine,,3,Welcome center ,Indoors,0,54.4339177794955,24.5235689818274
+259,bdc7868e-f1c7-492c-9704-ce36fede601a,4/28/2022 5:06:07 AM,adsp22_pk2269,4/28/2022 5:06:07 AM,adsp22_pk2269,Professor DJW working,,Human,,Faint 1,,Indoors,0,54.4334159,24.5243831
+260,5c78236f-17ba-4d32-a637-1ca775eff923,4/28/2022 5:06:40 AM,adsp22_pk2269,4/28/2022 5:06:40 AM,adsp22_pk2269,zipper opening,,Human,,Faint 1,from friend's backpack,Indoors,0,54.4334146,24.5243906
+261,dd571663-5cd6-47d6-92d1-95b196c27e20,4/28/2022 5:06:59 AM,adsp22_mim7995,4/28/2022 5:06:59 AM,adsp22_mim7995,Clicking ,,,,4,Doors of welcome center ,Indoors,0,54.4338294295219,24.5246986576555
+262,2619147d-37b6-4f3f-bd1e-cfe2166ca3e8,4/28/2022 5:07:23 AM,adsp22_mim7995,4/28/2022 5:07:23 AM,adsp22_mim7995,Professor speaking ,,Human,,Loud 5,A2,Indoors,0,54.4335619765239,24.5245157077775
+263,cfeab2ac-b0d4-4915-a247-74e6cab56d52,4/28/2022 5:07:53 AM,adsp22_mim7995,4/28/2022 5:07:53 AM,adsp22_mim7995,Keyboard clicking ,,Machine,,4,Class A2,Indoors,0,54.4335618264428,24.5245271606892
+264,9aed13ed-0c89-49ed-b882-1c4679e87263,4/28/2022 5:08:35 AM,adsp22_mim7995,4/28/2022 5:08:35 AM,adsp22_mim7995,Chairs moving ,,Machine,,4,A2 Class,Indoors,0,54.4335671888845,24.5245529704974
+265,fa20fc93-6d04-4dff-ac86-7c8776a9ceb1,4/28/2022 5:09:23 AM,adsp22_mim7995,4/28/2022 5:09:23 AM,adsp22_mim7995,Knuckles cracking ,,Human,,4,Student cracking knuckles beside me in class,Indoors,0,54.4335633592652,24.524544885191
+266,f81a764b-3151-4294-99a6-edd8a8c9bb99,4/28/2022 5:14:39 AM,adsp22_pk2269,4/28/2022 5:14:39 AM,adsp22_pk2269,door opening,,Human,,Faint 1,,Indoors,0,54.4334191,24.5244001
+267,7587cbf7-adbb-4b67-8b70-0e06b6a2b780,4/28/2022 5:27:33 AM,adsp22_met448,4/28/2022 5:27:33 AM,adsp22_met448,Professor yelling,,Human,,Loud 5,A2 Building,Indoors,0,0,0
+268,b3d6f996-d3ab-47d9-8b80-4297e8acf221,4/28/2022 5:28:18 AM,adsp22_met448,4/28/2022 5:28:18 AM,adsp22_met448,Somebody's phone messenger notification sound,,Machine,,3,A2,Indoors,0,0,0
+269,42f94933-f29d-4f1d-a11f-ed047b499f9f,4/28/2022 6:14:50 AM,adsp22_mim7995,4/28/2022 6:14:50 AM,adsp22_mim7995,People moving around in class,,Human,,2,,Indoors,0,54.433553603389,24.5245470226434
+270,ae157016-aad2-4b05-8a57-ba1adcb85041,4/28/2022 6:15:23 AM,adsp22_mim7995,4/28/2022 6:15:23 AM,adsp22_mim7995,Google calendar notification ,,Machine,,4,,Indoors,0,54.4335473996646,24.524558869367
+271,0a555c53-002a-4ac5-bb44-95b0afd6facd,4/28/2022 6:55:55 AM,adsp22_mim7995,4/28/2022 6:55:55 AM,adsp22_mim7995,Someone yawning ,,Human,,2,In class ,Indoors,0,54.4335495472113,24.5245445002448
+272,392cd852-9660-4fe5-82a8-1b076a62f527,4/28/2022 7:14:03 AM,adsp22_as13966,4/28/2022 7:14:03 AM,adsp22_as13966,Vacuum cleaner,,Machine,,Loud 5,,Indoors,3,54.4342459683278,24.5240798973999
+273,dc667830-1743-42b8-b59e-7982db095ab0,4/28/2022 7:14:22 AM,adsp22_as13966,4/28/2022 7:14:22 AM,adsp22_as13966,Keyboard clicks,,Machine,,Faint 1,,Indoors,3,54.4342599919873,24.5240487858906
+274,5b832eb7-5e85-49ff-8ee3-052e028c2bbe,4/28/2022 7:14:43 AM,adsp22_as13966,4/28/2022 7:14:43 AM,adsp22_as13966,Elevator arrived,,Machine,,2,,Indoors,3,54.4342348912706,24.5240748958364
+275,92d97e75-e4b6-4950-a03d-b9108833cd23,4/28/2022 7:47:26 AM,adsp22_mim7995,4/28/2022 7:47:26 AM,adsp22_mim7995,Trolley ,,Machine,,4,Near A5,Outdoors,0,54.4342730613047,24.5237721271825
+276,b55ff800-9394-4a66-87a1-a8b221084309,4/28/2022 7:48:49 AM,adsp22_mim7995,4/28/2022 7:48:49 AM,adsp22_mim7995,Elevator sounds ,,Machine,,4,A5,Indoors,0,54.4348930688377,24.5233962145732
+277,1809074d-bffb-496d-a870-6a4dcb79c81d,4/28/2022 7:49:13 AM,adsp22_mim7995,4/28/2022 7:49:13 AM,adsp22_mim7995,Birds chirping ,,Natural,,Loud 5,Near A5A,Outdoors,2,54.4349438333291,24.5235627237576
+278,cae49c3b-3d28-409c-b242-7b3a6ff7d2ac,4/28/2022 7:49:51 AM,adsp22_mim7995,4/28/2022 7:49:51 AM,adsp22_mim7995,Chattering ,,Human,,Faint 1,2 people talking far from me near A5A,Outdoors,2,54.4347494110293,24.523302465217
+279,c6793d08-1e1a-41b7-89b0-f6a7a7ffeeb1,4/28/2022 7:51:27 AM,adsp22_mim7995,4/28/2022 7:51:27 AM,adsp22_mim7995,Closing and opening of electric doors in building,,Machine,,Loud 5,,Indoors,2,54.434366175732,24.5232495123065
+280,538f2a32-52cc-4b27-94d2-06d5d9cb15bb,4/28/2022 7:52:21 AM,adsp22_mim7995,4/28/2022 7:52:21 AM,adsp22_mim7995,AC,,Machine,,2,Hallway of 4th floor A5A,Indoors,4,54.4347640203925,24.5235540693669
+281,30cfe2ff-f405-4c1c-b09e-e9cc5b7d2e8c,4/28/2022 7:53:06 AM,adsp22_mim7995,4/28/2022 7:53:06 AM,adsp22_mim7995,AC in room ,,Machine,,3,,Indoors,4,54.4346031859549,24.523452913353
+282,15d5084d-d4cd-4785-aa36-489c675d9307,4/28/2022 7:54:50 AM,adsp22_mim7995,4/28/2022 7:54:50 AM,adsp22_mim7995,Professor speaking on zoom ,,Human,,Loud 5,,Indoors,4,54.4344879722992,24.5234492442386
+283,25ae37ff-0720-47ec-8d80-f19e79242127,4/28/2022 8:56:27 AM,adsp22_met448,4/28/2022 8:56:27 AM,adsp22_met448,Door opening,,other,Mechanical,2,C2 ,Indoors,0,0,0
+284,362b1740-d24b-4f09-8026-1ee827cbb2cb,4/28/2022 8:56:52 AM,adsp22_met448,4/28/2022 8:56:52 AM,adsp22_met448,People talking,,Human,,Faint 1,"Murmuring, can't make out the words",Indoors,,0,0
+285,cc01b3aa-ab79-4d35-8fb6-a8f1509eb9c8,4/28/2022 8:57:23 AM,adsp22_met448,4/28/2022 8:57:23 AM,adsp22_met448,Elevator button ding sounds,,Machine,,2,Pleasant ding,Indoors,0,0,0
+286,ffc698e5-4048-4a50-8656-7db31b6e727a,4/28/2022 8:58:01 AM,adsp22_met448,4/28/2022 8:58:01 AM,adsp22_met448,Keys jangling,,other,Human yet not human ,Faint 1,Sounds like a whole bunch of keys jangling,Indoors,0,0,0
+287,eece25fb-d2b7-4021-8c39-dbc04cc9d884,4/28/2022 8:58:36 AM,adsp22_met448,4/28/2022 8:58:36 AM,adsp22_met448,Whooshing of air conditioning,,Machine,,Faint 1,Continuous and uniform sound,Indoors,0,0,0
+288,0b56000c-fd1b-4373-8242-15884ed28d03,4/28/2022 8:59:02 AM,adsp22_met448,4/28/2022 8:59:02 AM,adsp22_met448,Footsteps receding,,Human,,Faint 1,It sounds like someone is dragging their feet,Indoors,0,0,0
+289,5752473d-6f36-426b-8171-64521fa8ecc3,4/28/2022 8:59:47 AM,adsp22_met448,4/28/2022 8:59:47 AM,adsp22_met448,Skateboard,,Human,,Loud 5,A rolling sound with ups and downs,Indoors,0,0,0
+290,40534492-71b8-4b22-8aab-15087cbe89cf,4/28/2022 9:00:10 AM,adsp22_met448,4/28/2022 9:00:10 AM,adsp22_met448,Crying baby ,,Human,,3,Punctuated by sobs and whines,Indoors,0,0,0
+291,ed7aebe4-2ba8-4a85-84b9-332445125e74,4/28/2022 9:00:31 AM,adsp22_met448,4/28/2022 9:00:31 AM,adsp22_met448,ATM Buttons,,Machine,,2,,Indoors,,0,0
+292,a5ab2a39-4fa4-4dea-8d82-d4cfd57fa82e,4/28/2022 9:00:49 AM,adsp22_met448,4/28/2022 9:00:49 AM,adsp22_met448,ATM Cash Whirring,,Machine,,4,,Indoors,0,0,0
+293,da18fc24-66c8-453d-81f5-487a12625088,4/28/2022 9:01:51 AM,adsp22_met448,4/28/2022 9:01:51 AM,adsp22_met448,Paper flapping,,Human,,Faint 1,"Somebody using the printer, possibly drying ink?",Indoors,0,0,0
+294,5e40ed4e-72ba-4dd0-8784-ba56a188cda9,4/28/2022 9:02:19 AM,adsp22_met448,4/28/2022 9:02:19 AM,adsp22_met448,Birds chirping ,,Natural,,Faint 1,,Indoors,0,0,0
+295,cef30f70-0317-4c23-8977-3bc992da7771,4/28/2022 9:02:52 AM,adsp22_met448,4/28/2022 9:02:52 AM,adsp22_met448,Creaking of the sofa,,Human,,Faint 1,Sound of someone settling down onto the sofa,Indoors,0,0,0
+296,20a36a84-6cc7-476b-8bbd-290f7b059db8,4/28/2022 9:03:37 AM,adsp22_met448,4/28/2022 9:03:37 AM,adsp22_met448,Quick shuffling,,Human,,2,Quick shuffling of feet,Indoors,0,0,0
+297,249e96c9-5506-428a-8024-25e329fcc3f9,4/28/2022 9:04:37 AM,adsp22_met448,4/28/2022 9:04:37 AM,adsp22_met448,Elevator automated voice,,Machine,,2,""Going up"" ""Going down"",Indoors,0,0,0
+298,51f26caf-121c-4e45-84fc-2e8e4df30cb6,4/28/2022 9:05:00 AM,adsp22_met448,4/28/2022 9:05:00 AM,adsp22_met448,Clacking,,Human,,Faint 1,Clacking of high heeled shoes,Indoors,0,0,0
+299,4d18d31d-0966-46ff-866e-3b84749ba5f7,4/28/2022 9:05:28 AM,adsp22_met448,4/28/2022 9:05:28 AM,adsp22_met448,Tapping,,Human,,Loud 5,Somebody tapping their pen against a hard surface,Indoors,0,0,0
+300,145d2e49-a9c0-4522-894a-22c922633ca5,4/28/2022 9:09:06 AM,adsp22_met448,4/28/2022 9:09:06 AM,adsp22_met448,Faint music,,Human,,Faint 1,Someones headphones are turned up too loud,Indoors,,0,0
+301,8c3b23cb-88bf-4fcf-8a67-897d25cb342e,4/28/2022 9:09:30 AM,adsp22_met448,4/28/2022 9:09:30 AM,adsp22_met448,Echoes of voices,,Human,,Loud 5,Class ending time as people pour into C2,Indoors,,0,0
+302,bb4eb294-dcae-4bef-8eca-ea52d8498063,4/28/2022 9:10:03 AM,adsp22_met448,4/28/2022 9:10:03 AM,adsp22_met448,Crash,,Human,,4,Someone crashing into the elevator to stop it from closing,Indoors,,0,0
+303,3b0f6ccc-f2f4-4d3f-8772-789dfb22151d,4/28/2022 9:11:26 AM,adsp22_met448,4/28/2022 9:11:26 AM,adsp22_met448,Clanking,,other,Mechanical,4,Service trolley crossing the threshold from inside to out,Indoors,0,0,0
+304,ba21fd1f-31d1-4db1-883f-9be7793e6061,4/28/2022 9:15:07 AM,adsp22_met448,4/28/2022 9:15:07 AM,adsp22_met448,Faint laughter,,Human,,2,,Outdoors,0,0,0
+305,ca867654-be08-4027-816f-d8eb8526b874,4/28/2022 9:17:37 AM,adsp22_met448,4/28/2022 9:17:37 AM,adsp22_met448,Door closing,,Human,,2,,Indoors,0,0,0
+306,aff4c4a0-ada5-4ba2-88ba-5b15abc7151d,4/28/2022 9:18:54 AM,adsp22_met448,4/28/2022 9:18:54 AM,adsp22_met448,Keyboard typing,,Human,,Faint 1,,Indoors,0,0,0
+307,b9a56d73-5aaf-45e2-8fd5-15793e34f476,4/28/2022 9:19:13 AM,adsp22_met448,4/28/2022 9:19:13 AM,adsp22_met448,Zipper,,Human,,Faint 1,,Indoors,0,0,0
+308,50c6bddf-7967-4c71-8dbc-152855741d23,4/28/2022 9:19:37 AM,adsp22_met448,4/28/2022 9:19:37 AM,adsp22_met448,Facetime ringtone,,Machine,,4,,Indoors,0,0,0
+309,75fe586c-0943-4f67-831b-1dbfe51dd49e,4/28/2022 9:20:14 AM,adsp22_met448,4/28/2022 9:20:14 AM,adsp22_met448,Bag sliding,,Human,,Faint 1,Bag slides across the table,Indoors,0,0,0
+310,17ff5d81-05c5-4b54-8f4b-66bad3da0d32,4/28/2022 9:20:41 AM,adsp22_met448,4/28/2022 9:20:41 AM,adsp22_met448,Scraping,,Human,,2,Chair scraping back against the floor,Indoors,0,0,0
+311,65456a16-9d7a-4351-82e0-d778d71378f1,4/28/2022 9:21:16 AM,adsp22_met448,4/28/2022 9:21:16 AM,adsp22_met448,Squeaking,,Human,,2,Squeaking of overly new sneakers,Indoors,0,0,0
+312,15b99fef-d98e-4b3e-87b8-64a654ddae67,4/28/2022 9:48:13 AM,adsp22_mf3846,4/28/2022 9:49:10 AM,adsp22_mf3846,Instrument clicking,,Machine,,2,,Indoors,0,54.4335427962078,24.5253884770801
+313,a4f3cffa-29dd-444c-8bb3-6d139a4e58c3,4/28/2022 9:50:45 AM,adsp22_mf3846,4/28/2022 9:51:09 AM,adsp22_mf3846,microwave beeps,,Machine,,Loud 5,,Indoors,3,54.4346880994568,24.5235802660718
+314,3b7a3615-fee4-465f-af8f-a815027998fa,4/28/2022 9:52:39 AM,adsp22_mf3846,4/28/2022 9:54:16 AM,adsp22_mf3846,sound of quiet,,other,"sounds are rare and distant, mostly talking humans",Faint 1,library,Indoors,3,54.4346653006802,24.5243202692032
+315,128f9da2-5a07-45d7-8e80-e26c60c6963b,4/28/2022 9:54:17 AM,adsp22_mf3846,4/28/2022 9:54:38 AM,adsp22_mf3846,music,,Machine,,3,arts center vibes,Indoors,0,54.4356738112695,24.5233100082765
+316,96b8a5f4-5b85-456a-95a5-eaf810f1e286,4/28/2022 1:25:47 PM,adsp22_as13966,4/28/2022 1:25:47 PM,adsp22_as13966,People working out,,Human,,3,,Indoors,1,54.434678178617,24.5246027704244
+317,f5b818e1-0353-48c8-83c7-583c7864d62d,4/29/2022 12:03:50 AM,ADFA19_nks369,4/29/2022 12:03:50 AM,ADFA19_nks369,Roommate sipping on tea,,Human,,Faint 1,,Indoors,3,54.4333198058195,24.5242017992811
+318,058c3a1f-e81d-4055-8666-492a64983477,4/29/2022 2:21:15 AM,adsp22_mim7995,4/29/2022 2:21:15 AM,adsp22_mim7995,Grasshoppers ,,Natural,,Loud 5,Amphitheater 12am,Outdoors,0,54.4343397502669,24.5235109754024
+319,f2b83352-bb15-49f0-a615-540c2dfe8ca4,4/29/2022 4:09:01 PM,adsp22_as13966,4/29/2022 4:09:01 PM,adsp22_as13966,Paper printing,,Machine,,2,,Indoors,2,54.4352939571509,24.5229910228003
+320,ddc2bc41-b66f-4a60-9e9a-0923e9d19bed,4/29/2022 4:09:29 PM,adsp22_as13966,4/29/2022 4:09:29 PM,adsp22_as13966,Students partying Friday night,,Human,,4,,Indoors,2,54.4350169509955,24.5228382111404
+321,c6b81922-a21d-4f18-8271-eaf19bf566df,4/29/2022 4:11:38 PM,adsp22_as13966,4/29/2022 4:11:38 PM,adsp22_as13966,Humans arguing,,Human,,Faint 1,,Indoors,2,54.4349963325249,24.5228262588084
+322,1d211d14-1060-4572-bd1d-7cb35a24ac03,4/30/2022 7:33:39 AM,adsp22_ka1914,4/30/2022 7:33:39 AM,adsp22_ka1914,birds chirping,,Natural,,4,,Outdoors,0,54.4350866191447,24.5225477559497
+323,4cff3205-f24d-4f97-a878-add5d499dc5f,4/30/2022 1:16:57 PM,ADFA19_nks369,4/30/2022 1:16:57 PM,ADFA19_nks369,Sigh,,Human,,Faint 1,A student working on capstone sighed ,Indoors,0,54.4348276003964,24.524475438951
+324,4f72ade5-b051-4f86-9b24-e9f24c278459,4/30/2022 3:53:39 PM,adsp22_as13966,4/30/2022 3:53:39 PM,adsp22_as13966,Day mart cashier selling ,,Machine,,2,,Indoors,1,54.4342406846067,24.5239461252872
+325,0cc53fbf-2072-4fa5-bbc8-0aefdc1c28e6,4/30/2022 3:54:09 PM,adsp22_as13966,4/30/2022 3:54:09 PM,adsp22_as13966,Convince store refrigerator ,,Machine,,3,,Indoors,1,54.4346640890069,24.5236891505281
+326,e37cad44-cc2a-47e6-8838-99f8c83298f8,4/30/2022 10:20:05 PM,adsp22_pk2269,4/30/2022 10:20:05 PM,adsp22_pk2269,air con,,Machine,,Faint 1,,Indoors,6,54.4332541,24.5246393
+327,6e65d6b0-36b9-462c-b39f-6fd486313912,5/1/2022 12:30:59 AM,ADFA19_nks369,5/1/2022 12:30:59 AM,ADFA19_nks369,Birds chirping ,,Natural,,2,,Outdoors,3,54.4333246970248,24.524301176788
+328,70127bad-0477-4770-8ed0-73c96a02af01,5/1/2022 7:11:25 AM,adsp22_as13966,5/1/2022 7:11:25 AM,adsp22_as13966,Kids playing on the playground,,Human,,2,,Outdoors,2,54.43497789563,24.5237361189377
+329,7e8d2180-2a61-472d-b2f8-bc2b750678b4,5/1/2022 7:11:41 AM,adsp22_as13966,5/1/2022 7:11:41 AM,adsp22_as13966,Spotify music,,Machine,,4,,Indoors,2,54.4349700453926,24.5237257637836
+330,65b54e0f-6676-4c4a-84d0-e50eb82f96b5,5/1/2022 9:28:22 AM,adsp22_met448,5/1/2022 9:28:22 AM,adsp22_met448,Typing,,Human,,3,,Indoors,3,0,0
+331,2218fe1e-40fe-40fd-88ce-ae34a5a3d13b,5/1/2022 9:28:38 AM,adsp22_met448,5/1/2022 9:28:38 AM,adsp22_met448,People murmuring,,Human,,2,,Indoors,3,0,0
+332,3be67379-1f17-464a-8f36-80773abce675,5/1/2022 9:28:53 AM,adsp22_met448,5/1/2022 9:28:53 AM,adsp22_met448,Chair scraping back,,Human,,2,,Indoors,3,0,0
+333,415da1fb-7742-498f-8ed7-04719b13adc5,5/1/2022 9:29:10 AM,adsp22_met448,5/1/2022 9:29:10 AM,adsp22_met448,Whooshing from air conditioning,,Machine,,Faint 1,,Indoors,3,0,0
+334,6ee88189-320e-4cc5-bfce-3d80522af292,5/1/2022 9:33:09 AM,adsp22_ntn6039,5/1/2022 9:33:09 AM,adsp22_ntn6039,Still silence,,Natural,,Faint 1,,Indoors,2,54.4351605205383,24.5227886536236
+335,39d54faa-2166-47f4-8a43-3ba54dd3ed4d,5/1/2022 9:39:58 AM,adsp22_met448,5/1/2022 9:39:58 AM,adsp22_met448,Pen tapping,,Human,,2,,Indoors,3,0,0
+336,07a3e524-0378-4ddc-8621-35c55204716e,5/1/2022 9:40:15 AM,adsp22_met448,5/1/2022 9:40:15 AM,adsp22_met448,Elevator ding,,Machine,,Faint 1,,Indoors,3,0,0
+337,022aeb6d-9a11-41bd-8077-f2f039d4b8e5,5/1/2022 9:40:34 AM,adsp22_met448,5/1/2022 9:40:34 AM,adsp22_met448,Persistent buzzing,,Machine,,Faint 1,Irritating kind of sound,Indoors,3,0,0
+338,964a313c-4712-41fe-8449-c325e993a6a4,5/1/2022 11:02:32 AM,adsp22_as13966,5/1/2022 11:02:32 AM,adsp22_as13966,Weights being dropped in Gym,,Machine,,3,,Indoors,1,54.4349056938116,24.5239819499227
+339,95ecec60-c5d0-4037-a252-32b346c7a3ab,5/2/2022 9:08:07 AM,adsp22_sl7362,5/2/2022 9:08:07 AM,adsp22_sl7362,People talking,,Human,,3,,Outdoors,0,54.4320212671921,24.5251221847384
+340,e23aadd1-5c1e-447d-9f0f-9fbe3c0db667,5/2/2022 9:08:09 AM,adsp22_sl7362,5/2/2022 9:08:09 AM,adsp22_sl7362,Sizzle,,other,,Faint 1,,Indoors,0,54.4355607227647,24.5230086528926
+341,8c2332ce-337c-4f59-8fcb-9f01a490dab0,5/2/2022 9:57:23 AM,adsp22_met448,5/2/2022 9:57:23 AM,adsp22_met448,Quacking,,Natural,,2,Possibly a child pretending to be a duck?,Indoors,4,0,0
+342,c000614c-a779-4bb6-80f7-b78f97102721,5/2/2022 10:17:35 AM,adsp22_met448,5/2/2022 10:17:35 AM,adsp22_met448,Static,,Human,,Faint 1,,Indoors,4,0,0
+343,fa2274a9-e209-4a27-8b6e-f246b2a1a2d7,5/2/2022 10:18:14 AM,adsp22_met448,5/2/2022 10:18:14 AM,adsp22_met448,Flapping,,Natural,,2,Bird that knocked into my window had to flap his wings to readjust,Indoors,4,0,0
+344,842a7e21-63e1-4ebb-8faf-2410fa7c58ec,5/2/2022 10:18:28 AM,adsp22_met448,5/2/2022 10:18:28 AM,adsp22_met448,Chirping,,Natural,,Faint 1,,Indoors,4,0,0
+345,17ba0b87-3330-480e-87a8-eda64b33491f,5/2/2022 10:18:53 AM,adsp22_met448,5/2/2022 10:18:53 AM,adsp22_met448,Creaking,,other,Mechanical,2,Furniture creaking,Indoors,4,0,0
+346,a70fa1a0-2b0f-4418-8d0c-3d62adb50b77,5/2/2022 10:19:06 AM,adsp22_met448,5/2/2022 10:19:06 AM,adsp22_met448,Thumping,,Human,,Faint 1,,Indoors,4,0,0
+347,5466f954-ce50-4706-81f3-4fb76f9b2dc0,5/2/2022 10:19:23 AM,adsp22_met448,5/2/2022 10:19:23 AM,adsp22_met448,Cawing,,Natural,,2,A very loud bird asserting dominance,Indoors,4,0,0
+348,f533cc8a-6357-4190-8e43-25d0f1047fd8,5/2/2022 10:19:39 AM,adsp22_met448,5/2/2022 10:19:39 AM,adsp22_met448,Footsteps,,Human,,2,Somebody approaching my room likely,Indoors,4,0,0
+349,2ad57a51-5aff-4194-8ab1-22f52eb15afd,5/2/2022 10:20:03 AM,adsp22_met448,5/2/2022 10:20:03 AM,adsp22_met448,Coughing,,Human,,4,My rooommate coughing (please get a covid test),Indoors,4,0,0
+350,ceb2887b-71b1-42b7-8bfa-87e984d64b7d,5/2/2022 10:24:59 AM,adsp22_met448,5/2/2022 10:24:59 AM,adsp22_met448,Music,,Machine,,2,,Indoors,4,0,0
+351,eb1b4568-9a82-4aa8-86d3-cc4e7c77ad60,5/2/2022 10:25:21 AM,adsp22_met448,5/2/2022 10:25:21 AM,adsp22_met448,Murmuring,,Human,,2,D2 Lunch Patrons,Indoors,4,0,0
+352,d3e47590-dcbd-4d4f-94f0-dd6a98b1436c,5/2/2022 1:43:56 PM,adsp22_mf3846,5/2/2022 1:44:54 PM,adsp22_mf3846,phone game sound,,Machine,,2,I overheard the sound from another room,Indoors,3,54.4346666860353,24.5235894582632
+353,4318b635-b133-4044-aca2-c35abcf1a4a9,5/2/2022 1:59:11 PM,adsp22_as13966,5/2/2022 1:59:11 PM,adsp22_as13966,Floor cleaning,,Machine,,2,,Indoors,6,54.4347222026315,24.5227493283508
+354,e9cd4379-0a32-43c5-af9e-a2381a58f953,5/2/2022 2:00:35 PM,adsp22_as13966,5/2/2022 2:00:35 PM,adsp22_as13966,Arduion beeping ,,Machine,,3,Student working on IM project with arudino  ,Indoors,6,54.4346969123498,24.5230339084841
+355,628a9e72-4c3c-4df8-bf9b-2af295e7aa31,5/2/2022 2:13:55 PM,ADFA19_nks369,5/2/2022 2:13:55 PM,ADFA19_nks369,Cat’s fighting ,,other,Animal,3,,Outdoors,3,54.4331806511679,24.5243296184671
+356,4bfb1dd5-133c-4ad1-9fe8-ab21732c7e43,5/2/2022 6:11:10 PM,adsp22_as13966,5/2/2022 6:11:10 PM,adsp22_as13966,Students making some noise,,Human,,3,,Indoors,2,54.4350654978349,24.5238825925371
+357,7156c5c9-76ee-4d2a-a9af-0f933eb59831,5/2/2022 8:06:03 PM,adsp22_sl7362,5/2/2022 8:06:03 PM,adsp22_sl7362,Palm leaves wind,,Natural,,Faint 1,,Outdoors,0,54.4341222655194,24.5239664258934
+358,ba9f851a-d606-4c5a-93f7-b6a2b96197cc,5/2/2022 8:06:04 PM,adsp22_sl7362,5/2/2022 8:06:04 PM,adsp22_sl7362,Wind palm leaves,,Natural,,Faint 1,,Outdoors,0,54.4341956604874,24.5239404885758
+359,c0eb4e8b-278d-411c-86ec-118150be4d5d,5/2/2022 8:06:34 PM,adsp22_sl7362,5/2/2022 8:06:34 PM,adsp22_sl7362,Person on phone call,,Human,,2,,Outdoors,0,54.4341789889198,24.5238993262245
+360,9d16d62c-b4aa-43a0-bbdd-f5ef1995c35e,5/2/2022 8:06:52 PM,adsp22_sl7362,5/2/2022 8:06:52 PM,adsp22_sl7362,Motorbike,,Machine,,3,,Outdoors,0,54.4341854362622,24.5239427370067
+361,6ab2500f-8898-419a-bc2f-d8b02e147fe3,5/2/2022 8:07:13 PM,adsp22_sl7362,5/2/2022 8:07:13 PM,adsp22_sl7362,Cricket,,Natural,,Faint 1,,Outdoors,0,54.4342986538052,24.5239659576445
+362,9175682e-e0d2-40ba-8101-a0023735bee4,5/2/2022 8:07:38 PM,adsp22_sl7362,5/2/2022 8:07:38 PM,adsp22_sl7362,Crickets Many,,Natural,,2,,Outdoors,0,54.4343698222706,24.5238663726525
+363,9696fef0-c919-49e9-8c60-206c03eeb96f,5/2/2022 8:09:09 PM,adsp22_sl7362,5/2/2022 8:09:09 PM,adsp22_sl7362,Building Machine,,Machine,,2,,Outdoors,2,54.4341227182595,24.5233403535891
+364,e6018de0-8fef-4860-aa45-401570e33edf,5/2/2022 8:12:57 PM,adsp22_sl7362,5/2/2022 8:12:57 PM,adsp22_sl7362,Cricket,,Natural,,3,,Outdoors,2,54.4340998260017,24.5233949755029
+365,23fae7ec-d479-4217-8e22-c88f9b685073,5/2/2022 8:13:43 PM,adsp22_sl7362,5/2/2022 8:13:43 PM,adsp22_sl7362,AV sound from building,,Machine,,2,,Outdoors,2,54.4360737101996,24.5235180787079
+366,483a843d-762e-4c27-a693-f8e79863dd74,5/2/2022 8:15:04 PM,adsp22_sl7362,5/2/2022 8:15:04 PM,adsp22_sl7362,Motorbike,,Machine,,3,,Outdoors,2,54.4354130612495,24.5236986787282
+367,13e57777-1bcb-4c29-bad3-bf0a21ccf217,5/2/2022 8:17:45 PM,adsp22_sl7362,5/2/2022 8:17:45 PM,adsp22_sl7362,Zzzzzz sound imsect,,Natural,,2,,Outdoors,2,54.4339763483577,24.5238756361016
+368,e7ea133f-095a-4e39-bb01-558b082cbc2c,5/2/2022 8:18:17 PM,adsp22_sl7362,5/2/2022 8:18:17 PM,adsp22_sl7362,Leave ground,,Natural,,2,,Outdoors,2,54.4335765543164,24.524141088334
+369,6beec01f-f5a7-4f20-a7e5-c8100b241bfd,5/2/2022 8:18:35 PM,adsp22_sl7362,5/2/2022 8:18:35 PM,adsp22_sl7362,AV sound,,Machine,,3,,Outdoors,2,54.4333305701167,24.5241274151811
+370,fe184ccb-7eeb-4c66-85f8-0d8aa6296447,5/2/2022 8:18:55 PM,adsp22_sl7362,5/2/2022 8:18:55 PM,adsp22_sl7362,AV sound,,Machine,,3,,Outdoors,2,54.4331416307999,24.5242790776584
+371,f5ed6c29-b203-4385-a250-ae749840d434,5/3/2022 5:01:08 AM,adsp22_pk2269,5/3/2022 5:01:08 AM,adsp22_pk2269,piano music,,Human,,3,,Indoors,0,54.4332531,24.524639
+372,faec1afa-0a42-442a-a426-609af1cfb7f3,5/3/2022 5:01:28 AM,adsp22_pk2269,5/3/2022 5:01:28 AM,adsp22_pk2269,my friends talking,,Human,,4,,Indoors,0,54.4332443,24.5246283
+373,de8d0f86-339c-405f-94af-5decd5ba2b1f,5/3/2022 5:01:46 AM,adsp22_pk2269,5/3/2022 5:01:46 AM,adsp22_pk2269,youtube video,,Machine,,3,,Indoors,0,54.4332455,24.5246326
+374,f452bbd2-be0d-49b8-a0e7-9e68d6f624de,5/3/2022 12:22:47 PM,ADFA19_nks369,5/3/2022 12:22:47 PM,ADFA19_nks369,A can of coke is being opened ,,Natural,,2,,Indoors,0,54.4355557875545,24.5230085167492
+375,15ecbc5f-8b4c-433f-8b49-082b52e4f8a5,5/3/2022 2:28:12 PM,adsp22_met448,5/3/2022 2:28:12 PM,adsp22_met448,Wind,,Natural,,4,,Outdoors,3,0,0
+376,fa337a89-0aa6-482a-91a3-ea1901a7b920,5/3/2022 4:52:27 PM,adsp22_as13966,5/3/2022 4:52:27 PM,adsp22_as13966,Wind,,Natural,,Faint 1,,Indoors,2,54.4349113245157,24.5237695915531
+377,1229ffd5-63f4-4913-956d-ad7966cb596b,5/3/2022 6:06:23 PM,adsp22_amd1139,5/3/2022 6:06:23 PM,adsp22_amd1139,Cats,,other,Animal ,2,Palms ,Outdoors,0,54.4344934207049,24.5238293526858
+378,28a977be-0267-421d-bcc7-41fea54ab2ab,5/3/2022 6:49:37 PM,adsp22_as13966,5/3/2022 6:49:37 PM,adsp22_as13966,Playing pool,,Machine,,3,,Indoors,2,54.4346953255586,24.5236774417486
+379,5f2bffe9-56b3-4e2e-81f2-95aa33858584,5/3/2022 6:49:53 PM,adsp22_as13966,5/3/2022 6:49:53 PM,adsp22_as13966,Playing table tennis,,Machine,,4,,Indoors,2,54.4345094377301,24.5237394506297
+380,69695e36-9c89-41e6-aec5-388146e73bdd,5/3/2022 7:04:12 PM,adsp22_as13966,5/3/2022 7:04:12 PM,adsp22_as13966,Bus leaving,,Machine,,4,,Outdoors,0,54.4339906965426,24.5229413307709
+381,29cd738b-5c9b-4d8c-ae19-e340753f6f50,5/4/2022 8:46:55 AM,adsp22_pk2269,5/4/2022 8:46:55 AM,adsp22_pk2269,Air con,,Machine,,2,,Indoors,2,54.4350028,24.5237534
+382,4f6d3ef3-310c-42d8-95a1-63e04a9d4ceb,5/4/2022 8:48:51 AM,adsp22_pk2269,5/4/2022 8:48:51 AM,adsp22_pk2269,Friend writing,,Human,,Faint 1,,Indoors,2,54.4349959,24.5237746
+383,9ec37ca3-468b-4749-9c02-41a5e2c1deca,5/4/2022 8:49:38 AM,adsp22_pk2269,5/4/2022 8:49:38 AM,adsp22_pk2269,Piano playing,,Human,,3,,Indoors,0,54.4350002,24.5237673
+384,5783d3d2-39fa-4f79-a9cf-d8d5714eba7a,5/4/2022 8:50:09 AM,adsp22_pk2269,5/4/2022 8:50:09 AM,adsp22_pk2269,System sounds from phone,,Machine,,,,Indoors,0,54.4349884,24.5237795
+385,e71c59b6-9468-47bf-b124-1fa80c665478,5/4/2022 8:50:27 AM,adsp22_pk2269,5/4/2022 8:50:27 AM,adsp22_pk2269,Music,,Machine,,Faint 1,,Indoors,,54.4349893,24.5237736
+386,a88e100b-e990-4d8f-8cc5-7eeea98c3c06,5/4/2022 8:50:45 AM,adsp22_pk2269,5/4/2022 8:50:45 AM,adsp22_pk2269,Friends singing,,Human,,Faint 1,,Indoors,0,54.4349889,24.5237787
+387,5f1f63cc-0a97-44f0-83e6-6f78235d5c2b,5/4/2022 12:25:03 PM,adsp22_as13966,5/4/2022 12:25:03 PM,adsp22_as13966,Me playing flute,,Machine,,Loud 5,,Indoors,2,54.4356008250583,24.5230418884673
+388,ff3a4d77-1556-43d6-b42b-5a0e8185fa1c,5/4/2022 12:25:19 PM,adsp22_as13966,5/4/2022 12:25:19 PM,adsp22_as13966,Students eating at D2,,Human,,2,,Outdoors,2,54.4356213419312,24.5230204166784
+389,0d15b5e9-f8d7-402e-a596-245938247f33,5/4/2022 1:30:22 PM,adsp22_kds490,5/4/2022 1:30:22 PM,adsp22_kds490,Maintaince in residential hallway,,Machine,,4,,Indoors,3,54.4352131177843,24.5225670515243
+390,35f9da3d-5526-4ac0-ab96-68e6ad086a0a,5/4/2022 3:57:32 PM,adsp22_as13966,5/4/2022 3:57:32 PM,adsp22_as13966,Cats arguing,,Natural,,2,,Outdoors,0,54.4350940788388,24.5232005701675
+391,8f1595f6-8993-4643-87ed-c9892e65b999,5/4/2022 6:38:12 PM,adsp22_pk2269,5/4/2022 6:38:12 PM,adsp22_pk2269,Friend Talking,,Human,,Faint 1,,Outdoors,0,54.4353632,24.5235604
+392,1fde3a8d-afd6-4eae-b4a5-ad00aa1d791d,5/4/2022 6:38:33 PM,adsp22_pk2269,5/4/2022 6:38:33 PM,adsp22_pk2269,Rustling leaves,,Natural,,Faint 1,,Outdoors,0,54.4353521,24.5235694
+393,bf6c143c-88c7-47f2-8cf9-6ab23e6799af,5/4/2022 6:38:51 PM,adsp22_pk2269,5/4/2022 6:38:51 PM,adsp22_pk2269,Wind,,Natural,,Faint 1,,Outdoors,2,54.4353514,24.5235714
+394,bdf875c7-6003-4ab4-903b-e0e4933bfed1,5/4/2022 6:40:23 PM,adsp22_pk2269,5/4/2022 6:40:23 PM,adsp22_pk2269,Cricket,,Natural,,Faint 1,,Outdoors,2,54.4353389,24.5235689
+395,c6d86e44-2797-44a7-97fe-d06562918047,5/4/2022 6:40:50 PM,adsp22_pk2269,5/4/2022 6:40:50 PM,adsp22_pk2269,Cars,,Machine,,Faint 1,,Outdoors,2,54.4353351,24.5235747
+396,fbb10c76-e75c-48d4-95c1-73e682648a37,5/4/2022 6:41:33 PM,adsp22_pk2269,5/4/2022 6:41:33 PM,adsp22_pk2269,Air con,,Machine,,Faint 1,,Outdoors,2,54.4353241,24.5235724
+397,f7e3366d-baf3-48e8-8b22-445bc11de15b,5/4/2022 6:42:16 PM,adsp22_pk2269,5/4/2022 6:42:16 PM,adsp22_pk2269,Footsteps of delivery guys,,Human,,Faint 1,,Outdoors,2,54.4353393,24.523575
+398,aed0db1c-ce03-4470-b92b-f4a9c7e17be4,5/4/2022 6:43:10 PM,adsp22_pk2269,5/4/2022 6:43:10 PM,adsp22_pk2269,Clapping,,Human,,Faint 1,,Outdoors,2,54.4353361,24.5235733
+399,74f4e46e-a842-4d3e-a385-d50716d30e14,5/4/2022 6:43:42 PM,adsp22_pk2269,5/4/2022 6:43:42 PM,adsp22_pk2269,SingingFriend   ,,Human,,Faint 1,,Outdoors,2,54.4353528,24.5235605
+400,e35ff930-61c8-4958-91c8-389facac38af,5/5/2022 3:46:41 AM,ADFA19_nks369,5/5/2022 3:46:41 AM,ADFA19_nks369,Vacuum cleaner ,,Machine,,4,,Outdoors,0,54.4352872296793,24.5232186184641
+401,0c813947-8861-4034-9448-498d658e01b1,5/5/2022 7:54:05 AM,adsp22_ka1914,5/5/2022 7:54:05 AM,adsp22_ka1914,Door screeching,,Human,,2,Faulty door in the restroom outside marketplace,Indoors,2,54.4338360965068,24.5244170621888
+402,8804bab3-665f-4d6a-9d28-5a12362f60d6,5/5/2022 7:54:41 AM,adsp22_ka1914,5/5/2022 7:54:41 AM,adsp22_ka1914,Water running ,,Natural,,4,I like the sound of the automatic faucet running and stopping,Indoors,2,54.4337404553012,24.524436749638
+403,b937d58a-648a-48c9-9955-b1bf512053da,5/5/2022 7:55:19 AM,adsp22_ka1914,5/5/2022 7:55:19 AM,adsp22_ka1914,Drawing paper towels,,Natural,,3,The sound of drawing paper towels from the dispenser,Indoors,2,54.4337337843564,24.5244291704174
+404,123a3f3c-1dcf-4068-9e87-d8462a3caff0,5/5/2022 7:56:03 AM,adsp22_ka1914,5/5/2022 7:56:03 AM,adsp22_ka1914,Elevator ding ,,Machine,,3,The sound the elevator makes when it arrives ,Indoors,2,54.4339560533817,24.5242416735983
+405,04118042-cab2-4506-89fc-8da9b05897ab,5/5/2022 7:57:01 AM,adsp22_ka1914,5/5/2022 7:57:01 AM,adsp22_ka1914,Door metal bar push,,Machine,,3,The sound of pushing the metal bar on the door,Indoors,2,54.4338001808669,24.5243881789322
+406,302c98ae-bb61-4eba-bdf7-6ef08de98ada,5/5/2022 7:58:09 AM,adsp22_ka1914,5/5/2022 7:58:09 AM,adsp22_ka1914,Elevator activation sound ,,Machine,,Faint 1,The sound the elevator makes when it begins moving ,Indoors,2,54.4337972502674,24.5243962533647
+407,741c6843-bd16-4089-b22d-58c015cee43a,5/5/2022 9:26:12 AM,adsp22_met448,5/5/2022 9:26:12 AM,adsp22_met448,Thump,,Natural,,Faint 1,,Indoors,5,54.4355406664911,24.5230084332379
+408,c3e31aca-f57f-498f-8d90-4276eb88d626,5/5/2022 9:35:29 AM,adsp22_met448,5/5/2022 9:35:29 AM,adsp22_met448,Glasses clinking,,Human,,Faint 1,My roommate washing glasses,Indoors,4,0,0
+409,85e90fc6-65ca-45f3-8748-6bee919463c6,5/5/2022 9:36:05 AM,adsp22_met448,5/5/2022 9:36:05 AM,adsp22_met448,Whooshing,,Natural,,2,The wind,Outdoors,4,0,0
+410,8b5250ab-b1ec-4906-8d01-0a4f2ef759c2,5/5/2022 9:38:24 AM,adsp22_met448,5/5/2022 9:38:24 AM,adsp22_met448,Chirping,,Natural,,3,Birds are very aggressive sitting on my window ledge,Indoors,4,0,0
+411,0747eb33-fe86-4563-8a79-71679993225a,5/5/2022 9:41:06 AM,adsp22_met448,5/5/2022 9:41:06 AM,adsp22_met448,Receding footsteps,,Human,,3,Someone walking past the suite quite hurriedly so the loudness changed,Indoors,4,0,0
+412,938ceba3-ba84-434a-8061-7072ea634081,5/5/2022 9:42:27 AM,adsp22_met448,5/5/2022 9:42:27 AM,adsp22_met448,Cutlery,,Human,,2,,Indoors,4,0,0
+413,659f1f2e-bd63-4d0e-9f8f-7c9227202357,5/5/2022 1:54:04 PM,adsp22_as13966,5/5/2022 1:54:04 PM,adsp22_as13966,Food preparation in Marketplace,,Machine,,3,,Indoors,2,54.4337416288685,24.5244475441961
+414,ddce4a91-8ec2-4be9-9ea9-95076a7be9ed,5/5/2022 2:32:50 PM,adsp22_pk2269,5/5/2022 2:32:50 PM,adsp22_pk2269,Cutlery,,Human,,2,,Indoors,0,54.4328393,24.5252067
+415,ee12baa1-af0d-4bac-b478-1111799243b5,5/5/2022 2:33:18 PM,adsp22_pk2269,5/5/2022 2:33:18 PM,adsp22_pk2269,Music,,Machine,,3,,Indoors,0,54.4328373,24.5251931
+416,a6c51011-7316-4fa0-828b-0d047e549c11,5/5/2022 2:33:38 PM,adsp22_pk2269,5/5/2022 2:33:38 PM,adsp22_pk2269,Human Mumbling,,Human,,Faint 1,,Indoors,0,54.4328359,24.5252
+417,ba8bc43c-bdd1-47c2-9dce-980dfecffcdb,5/5/2022 2:34:13 PM,adsp22_pk2269,5/5/2022 2:34:13 PM,adsp22_pk2269,Cooking and frying,,Human,,Faint 1,,Indoors,0,54.4328465,24.5252036
+418,34faa8db-2923-4016-8dd2-8542c15de0bc,5/5/2022 2:34:59 PM,adsp22_pk2269,5/5/2022 2:34:59 PM,adsp22_pk2269,Dragging the Chair,,Human,,Faint 1,,Indoors,0,54.4328446,24.525197
+419,557978e8-56c7-46e2-8b02-9c7bcdc302f5,5/5/2022 2:35:35 PM,adsp22_pk2269,5/5/2022 2:35:35 PM,adsp22_pk2269,Laughing,,Human,,2,,Indoors,0,54.4328403,24.5251961
+420,c8aef35b-5a1b-446b-9cbf-1b75e84da6f3,5/5/2022 2:36:05 PM,adsp22_pk2269,5/5/2022 2:36:05 PM,adsp22_pk2269,Door Opening,,Human,,Faint 1,,Indoors,0,54.4328408,24.5251976
+421,456c57bd-097b-4455-8dff-426b9284ba02,5/5/2022 2:37:06 PM,adsp22_pk2269,5/5/2022 2:37:06 PM,adsp22_pk2269,Sneezing,,Human,,Faint 1,,Indoors,0,54.4328442,24.5251909
+422,badb8d1e-14ac-4d08-b7cf-7481a27baa41,5/5/2022 2:37:36 PM,adsp22_pk2269,5/5/2022 2:37:36 PM,adsp22_pk2269,Footsteps,,Human,,Faint 1,,Indoors,0,54.4328382,24.5252041
+423,ad432200-50ae-4f8b-9d89-355538ab0f3e,5/5/2022 2:38:18 PM,adsp22_pk2269,5/5/2022 2:38:18 PM,adsp22_pk2269,Drinking water,,Human,,Faint 1,,Indoors,0,54.4328359,24.5251985
+424,57f741c2-3ecf-42ad-bcd9-1a8e86bb968c,5/5/2022 2:40:44 PM,adsp22_pk2269,5/5/2022 2:40:44 PM,adsp22_pk2269,Chopsticks rubbing,,Human,,Faint 1,,Indoors,0,54.4328385,24.5252008
+425,0d475157-535a-4af7-93e9-1df70568b3f9,5/5/2022 2:42:14 PM,adsp22_pk2269,5/5/2022 2:42:14 PM,adsp22_pk2269,Spatula hitting the stove,,Human,,Faint 1,,Indoors,0,54.4328384,24.5252062
+426,f91ec879-1298-4a00-980d-4645cd7d8233,5/5/2022 2:43:52 PM,adsp22_pk2269,5/5/2022 2:43:52 PM,adsp22_pk2269,Glasses hitting with utensils,,Human,,Faint 1,,Indoors,0,54.4328321,24.5251909
+427,d4d44349-2969-4890-a9c3-cb079fda64ae,5/5/2022 2:49:24 PM,adsp22_pk2269,5/5/2022 2:49:24 PM,adsp22_pk2269,Air Con,,Machine,,Faint 1,,Outdoors,0,54.4328449,24.525202
+428,44e94542-5512-4630-942b-dd73e2e53a43,5/5/2022 2:49:47 PM,adsp22_pk2269,5/5/2022 2:49:47 PM,adsp22_pk2269,Birds Chirping,,Natural,,Faint 1,,Outdoors,0,54.4330462,24.5250801
+429,6cb24ac9-199b-418e-a902-2faeabdf44fb,5/5/2022 2:50:07 PM,adsp22_pk2269,5/5/2022 2:50:07 PM,adsp22_pk2269,Cars passing by from distance,,Machine,,Faint 1,,Indoors,0,54.4330267,24.5249657
+430,68f59ede-5a1f-42b5-a9b7-547c48058763,5/5/2022 2:50:28 PM,adsp22_pk2269,5/5/2022 2:50:28 PM,adsp22_pk2269,Door closing,,Human,,Faint 1,,Outdoors,0,54.4330256,24.5249606
+431,84898b43-e486-4559-b81f-4602379d1304,5/5/2022 2:50:44 PM,adsp22_pk2269,5/5/2022 2:50:44 PM,adsp22_pk2269,Car Horn,,Machine,,Faint 1,,Outdoors,0,54.4330098,24.5249678
+432,909a990b-7399-485f-91ab-44cc3b61ccb4,5/5/2022 3:15:54 PM,adsp22_pk2269,5/5/2022 3:15:54 PM,adsp22_pk2269,Footsteps,,Human,,Faint 1,,Outdoors,0,54.4330926,24.5250406
+433,31224ca6-e94a-462a-adc8-a9a48fa6c5a5,5/5/2022 3:18:03 PM,adsp22_pk2269,5/5/2022 3:18:03 PM,adsp22_pk2269,Water squeezing out of pipes,,Machine,,Faint 1,,Outdoors,0,54.4339058,24.5241781
+434,eddda4f9-aadd-453f-8299-3cbebfbcafcb,5/5/2022 3:18:29 PM,adsp22_pk2269,5/5/2022 3:18:29 PM,adsp22_pk2269,Kids Playing,,Human,,Loud 5,,Outdoors,0,54.4340156,24.5239307
+435,1deab0e9-98cf-4f80-870d-77dc12edb65d,5/5/2022 3:20:04 PM,adsp22_pk2269,5/5/2022 3:20:04 PM,adsp22_pk2269,Fountains,,Machine,,Faint 1,,Outdoors,0,54.4348049,24.5236919
+436,c13d1ea0-2311-49a1-a112-382203865dfe,5/5/2022 3:20:22 PM,adsp22_pk2269,5/5/2022 3:20:22 PM,adsp22_pk2269,Cricket,,Natural,,Faint 1,,Outdoors,0,54.4350154,24.5234419
+437,ef1d6810-c6ce-4e28-96fa-94578253ccf3,5/5/2022 3:36:20 PM,adsp22_pk2269,5/5/2022 3:36:20 PM,adsp22_pk2269,Piano,,Human,,Faint 1,Me Playing,Indoors,0,54.4353432,24.5236393
+438,dfe13389-cb32-439b-b329-a9c5390bd516,5/5/2022 3:37:45 PM,adsp22_pk2269,5/5/2022 3:37:45 PM,adsp22_pk2269,Air Con,,Machine,,Faint 1,,Indoors,0,54.4353287,24.523694
+439,b351a31a-1613-42f3-939e-7ebfb7966c92,5/5/2022 3:41:18 PM,adsp22_pk2269,5/5/2022 3:41:18 PM,adsp22_pk2269,Footsteps,,Human,,Faint 1,,Indoors,0,54.4352996,24.5236128
+440,3b394f16-23f8-4237-8ea9-f9a80ed9603a,5/5/2022 3:48:36 PM,adsp22_pk2269,5/5/2022 3:48:36 PM,adsp22_pk2269,Yawning,,Human,,Faint 1,,Indoors,0,54.435319,24.523659
+441,497ea0b6-8f79-4f2b-98e8-b244e830dc84,5/5/2022 4:02:17 PM,adsp22_pk2269,5/5/2022 4:02:17 PM,adsp22_pk2269,Toilet flush,,Machine,,Faint 1,,Indoors,0,54.4353409,24.5236213
+442,413ec326-bb16-460a-a512-b6b5558ea6e6,5/5/2022 9:29:45 PM,adsp22_ka1914,5/5/2022 9:29:45 PM,adsp22_ka1914,Bugs singing ,,Natural,,2,,Outdoors,9,54.4349404790546,24.5229643413877
+443,e729a356-f227-42bd-8b46-9f8bf9918448,5/5/2022 9:30:35 PM,adsp22_ka1914,5/5/2022 9:30:35 PM,adsp22_ka1914,Climbing stairs ,,Human,,2,,Outdoors,1,54.4350847808693,24.5228314686225
+444,80ca2c76-cecf-4b37-bffe-1ee8cbf2c8a4,5/6/2022 3:49:12 AM,adsp22_ntn6039,5/6/2022 3:49:12 AM,adsp22_ntn6039,Drill noise,,Machine,,4,,Outdoors,0,54.4351980454112,24.5227169610703
+445,f188597b-78b3-4cb7-94a2-c8c119b32a9e,5/6/2022 3:49:42 AM,adsp22_ntn6039,5/6/2022 3:49:42 AM,adsp22_ntn6039,Hammer sound,,Machine,,4,,Outdoors,0,54.4350883865603,24.522356683435
+446,96ae29cf-b48c-4354-9c67-e5645c089ee5,5/6/2022 5:08:02 AM,adsp22_ka1914,5/6/2022 5:08:02 AM,adsp22_ka1914,Cat yawning,,Natural,,3,,Outdoors,0,54.4351241756801,24.5229108967084
+447,23a190d3-2d59-43db-b627-02911ded13cd,5/6/2022 5:08:42 AM,adsp22_ka1914,5/6/2022 5:08:42 AM,adsp22_ka1914,Flag flapping in the air ,,Natural,,3,,Outdoors,0,54.4341211650814,24.5239111146264
+448,4c09eaef-74a3-4a0a-9378-499736f447a6,5/6/2022 5:15:40 AM,adsp22_ka1914,5/6/2022 5:15:40 AM,adsp22_ka1914,BGM,,Machine,,3,I’m at blacksmith,Indoors,0,54.4331310556773,24.5237525128283
+449,9dcd4f98-563e-4be9-9d79-759ff4c1545a,5/6/2022 5:16:01 AM,adsp22_ka1914,5/6/2022 5:16:01 AM,adsp22_ka1914,Someone calling ,,Human,,2,I’m at blacksmith ,Indoors,0,54.43315724847,24.5237463519085
+450,0680e3e1-471a-4189-b29d-29f480323024,5/6/2022 5:31:25 AM,adsp22_as13966,5/6/2022 5:31:25 AM,adsp22_as13966,Laundry at A6A,,Machine,,2,,Indoors,2,54.4355007226412,24.5230235518581
+451,d773316b-ffde-4c49-a8a0-f997b1b6add3,5/6/2022 7:54:36 AM,adsp22_ka1914,5/6/2022 7:54:36 AM,adsp22_ka1914,Chatter,,Human,,3,Blacksmith ,Indoors,0,54.4331488873865,24.5237413064256
+452,f75503ce-092e-4948-89de-3335b0e841c2,5/6/2022 7:54:59 AM,adsp22_ka1914,5/6/2022 7:54:59 AM,adsp22_ka1914,Espresso machine steam,,Machine,,3,Blacksmith ,Indoors,0,54.4331466196154,24.5237380868067
+453,02962b04-1283-459b-8e95-57c020877547,5/6/2022 7:55:17 AM,adsp22_ka1914,5/6/2022 7:55:17 AM,adsp22_ka1914,Toilet flushing  ,,Machine,,Faint 1,,Indoors,0,54.4331510500368,24.5237368161974
+454,fdba2583-7631-44cd-858c-813f3d003fe6,5/6/2022 12:17:56 PM,adsp22_as13966,5/6/2022 12:17:56 PM,adsp22_as13966,Library quietness ,,Human,,Faint 1,,Indoors,3,54.4344060931665,24.5241767554937
+455,84dde70a-72ca-4182-aa09-6532705a537d,5/6/2022 1:31:08 PM,adsp22_sl7362,5/6/2022 1:31:08 PM,adsp22_sl7362,AC siund,,Machine,,3,,Indoors,6,54.4329091838377,24.5243225255318
+456,b4a13f7b-371d-44e2-ab21-5ed86ed9882b,5/6/2022 1:34:47 PM,adsp22_sl7362,5/6/2022 1:34:47 PM,adsp22_sl7362,Mouse clicking sound,,other,,Faint 1,,Indoors,6,54.4329296958153,24.5243235933139
+457,2419f1b4-21eb-479b-8d40-466ed812f80d,5/6/2022 1:35:07 PM,adsp22_sl7362,5/6/2022 1:35:07 PM,adsp22_sl7362,Computer fan sound,,Machine,,Faint 1,,Indoors,6,54.4328653111747,24.5243131741922
+458,e0104dca-f5b2-4de3-b111-e2e2c9278e5c,5/6/2022 6:35:11 PM,adsp22_as13966,5/6/2022 6:35:11 PM,adsp22_as13966,Security guard radio,,Machine,,Faint 1,,Indoors,2,54.435417903439,24.5226778669103
+459,0e0f2f93-d50e-4169-a0ad-4a5ced82c9d2,5/7/2022 7:40:44 AM,adsp22_as13966,5/7/2022 7:40:44 AM,adsp22_as13966,Phone ringing in the welcome center,,Machine,,Faint 1,,Indoors,0,54.433586339932,24.5233907758033
+460,761bdd91-f4ea-4139-b920-9ed91cab4058,5/7/2022 4:12:27 PM,adsp22_ss13750,5/7/2022 4:12:27 PM,adsp22_ss13750,Conversation,,Human,,2,Talking,Indoors,5,0,0
+461,7fdd7505-1eae-46f7-8450-f231d66bb51d,5/7/2022 4:13:24 PM,adsp22_as13966,5/7/2022 4:13:24 PM,adsp22_as13966,Students eating D2,,Human,,4,,Indoors,0,54.4355613456831,24.5230109427225
+462,6143d071-87a9-41b4-a39b-a5c515768f86,5/7/2022 5:45:54 PM,adsp22_as13966,5/7/2022 5:45:54 PM,adsp22_as13966,IM lab students working,,Machine,,3,,Indoors,0,0,0
+463,b968e8c1-f453-4df3-a070-5235865e00c5,5/8/2022 8:52:24 AM,adsp22_as13966,5/8/2022 8:52:24 AM,adsp22_as13966,Grill sounds at D2,,Machine,,3,,Indoors,0,54.4355520434397,24.5230449824461
+464,eb70d1e0-d0e3-4638-9909-887c2f9a77b3,5/8/2022 10:16:07 AM,adsp22_sl7362,5/8/2022 10:16:07 AM,adsp22_sl7362,Computer fan sound,,Machine,,2,,Indoors,3,54.4341982234042,24.5243771005648
+465,f55f13c5-2e85-4e80-82fb-24e7befb99c3,5/8/2022 10:16:28 AM,adsp22_sl7362,5/8/2022 10:16:28 AM,adsp22_sl7362,Card tapping sound,,Machine,,2,,Indoors,3,54.4344995853532,24.5242292071264
+466,e16d5dac-0e97-47d0-817e-2c44467f4f73,5/8/2022 10:16:50 AM,adsp22_sl7362,5/8/2022 10:16:50 AM,adsp22_sl7362,Mouse click sound,,Machine,,Faint 1,,Indoors,,54.4343325230807,24.5242002233319
+467,9662d570-8710-490c-83cb-38550052249d,5/8/2022 10:17:06 AM,adsp22_sl7362,5/8/2022 10:17:06 AM,adsp22_sl7362,People talking,,Human,,Faint 1,,Indoors,3,54.4345140287566,24.5240300714588
+468,7d8f33f4-c8f2-4172-a320-2bcc76afd11a,5/8/2022 2:27:24 PM,adsp22_as13966,5/8/2022 2:27:24 PM,adsp22_as13966,Keyboard clicks,,Machine,,Faint 1,,Indoors,4,54.4344469947288,24.5245072687496
+469,5729eabf-689c-4883-bff9-fbe1ca877d42,5/8/2022 7:37:36 PM,adsp22_ntn6039,5/8/2022 7:37:36 PM,adsp22_ntn6039,Ticking clock,,Machine,,Faint 1,,Indoors,,54.4350644581993,24.5239459505398
+470,bc13f188-f8ac-4fb3-8c7a-de53b4aba344,5/8/2022 7:38:05 PM,adsp22_ntn6039,5/8/2022 7:38:05 PM,adsp22_ntn6039,AC,,Machine,,Faint 1,,Indoors,2,54.4343967241598,24.5237147831143
+471,dcd8aa1a-7677-4aa5-8342-7e3ba50900fa,5/8/2022 7:39:22 PM,adsp22_ntn6039,5/8/2022 7:39:22 PM,adsp22_ntn6039,Sipping boba tea,,Human,,2,,Indoors,2,54.4350632638745,24.5238918085614
+472,33223f6f-3f29-426f-b06a-b645c18f0c98,5/8/2022 7:49:42 PM,adsp22_ntn6039,5/8/2022 7:49:42 PM,adsp22_ntn6039,Chair cracking,,Machine,,3,,Indoors,2,54.4350296285463,24.5239937902791
+473,d714f0c1-17a2-4f3d-9178-f5e6a2f7fa44,5/9/2022 6:11:25 AM,adsp22_mim7995,5/9/2022 6:11:25 AM,adsp22_mim7995,Ruffling of clothes ,,Human,,Faint 1,Roommate fixing hijab ,Indoors,4,54.4345622304657,24.5234761461483
+474,94a4dbcf-b3b4-4487-8057-c469b6094a68,5/9/2022 6:11:56 AM,adsp22_mim7995,5/9/2022 6:11:56 AM,adsp22_mim7995,Loud breathing ,,Human,,2,Roommate breathing loudly since she’s a little sick ,Indoors,4,54.4345467622053,24.5234813332702
+475,856044f4-d12d-4a3c-bc07-02afbfd77467,5/9/2022 6:12:20 AM,adsp22_mim7995,5/9/2022 6:12:20 AM,adsp22_mim7995,Footsteps ,,Human,,2,Roommate walking around ,Indoors,4,54.4345635796798,24.5234613809926
+476,e35a4e4f-fe8c-4be7-bd77-c69a4b715a6d,5/9/2022 6:12:46 AM,adsp22_mim7995,5/9/2022 6:12:46 AM,adsp22_mim7995,Wind ,,Natural,,Faint 1,Could hear wind outside from my room ,Indoors,4,54.4345794866535,24.5234665783053
+477,6704008a-b46d-45cd-81bd-d2c7eec9d24c,5/9/2022 7:45:46 AM,adsp22_mim7995,5/9/2022 7:45:46 AM,adsp22_mim7995,Students moving around ,,Human,,4,Class just ended,Indoors,0,54.4339896709146,24.5239915648073
+478,4e1ec2e2-137d-40b2-a73b-2101fc6b2199,5/9/2022 8:57:00 AM,adsp22_ss13750,5/9/2022 8:57:00 AM,adsp22_ss13750,Noise,,Human,,3,People talking and eating,Indoors,2,0,0
+479,8fc732a8-2373-4f52-a9d7-15abbaf54d8f,5/9/2022 9:20:53 AM,adsp22_kds490,5/9/2022 9:20:53 AM,adsp22_kds490,Grill sizziling,,Human,,3,,Indoors,0,54.4355620334765,24.5230084748776
+480,565b3ce5-3937-44fd-b56d-eed5a0f74153,5/9/2022 11:06:26 AM,adsp22_mim7995,5/9/2022 11:06:26 AM,adsp22_mim7995,Birds chirping ,,Natural,,4,Near a5a,Outdoors,2,54.434545737483,24.5233553754775
+481,3e18e178-c5bb-4ff4-8acf-2b46ffcd366c,5/9/2022 11:08:05 AM,adsp22_mim7995,5/9/2022 11:08:05 AM,adsp22_mim7995,Elevator sounds,,Machine,,4,,Indoors,4,54.4344228596335,24.5231804746811
+482,f7c190f1-2ab5-42c4-b93a-37b40de18bb0,5/9/2022 11:08:32 AM,adsp22_mim7995,5/9/2022 11:08:32 AM,adsp22_mim7995,AC,,Machine,,3,Entrance of A5A,Indoors,2,54.4343861655402,24.523838080258
+483,03fda0bf-ddec-4149-9a55-aec9a1d7e22b,5/9/2022 11:09:43 AM,adsp22_mim7995,5/9/2022 11:09:43 AM,adsp22_mim7995,My footsteps ,,Human,,4,Walking to my dorm ,Indoors,4,54.4348656575665,24.5234880457113
+484,8921382f-b7ee-4dc3-a824-dc7725458edf,5/9/2022 11:10:04 AM,adsp22_mim7995,5/9/2022 11:10:04 AM,adsp22_mim7995,AC in my room ,,Machine,,3,,Indoors,4,54.4346278081494,24.5235240857328
+485,46e9ca3b-4790-45ba-adfc-c8d804f85ce0,5/9/2022 11:10:25 AM,adsp22_mim7995,5/9/2022 11:10:25 AM,adsp22_mim7995,Birds chirping ,,Natural,,3,,Indoors,4,54.4346282366975,24.5235373566961
+486,1e8f55be-d928-4340-86c8-d8e464c0a313,5/9/2022 12:42:47 PM,adsp22_as13966,5/9/2022 12:42:47 PM,adsp22_as13966,Prof speaking in class ,,Human,,3,,Indoors,0,54.4349287186443,24.5234926170333
+487,bf489d85-42b8-4682-8380-f7b07c46966e,5/9/2022 3:30:33 PM,adsp22_ss13189,5/9/2022 3:30:33 PM,adsp22_ss13189,clinking,,Human,,4,,Outdoors,0,54.435597,24.5229377
+488,70259c14-8838-4a33-b058-f0190b05e0d5,5/9/2022 3:31:28 PM,adsp22_ss13189,5/9/2022 3:31:28 PM,adsp22_ss13189,talking,,Human,,4,,Outdoors,0,54.4356356,24.522954
+489,9e81e107-8050-4135-90da-76d6b8d2f235,5/9/2022 3:32:37 PM,adsp22_ss13189,5/9/2022 3:32:37 PM,adsp22_ss13189,jiggly plates,,Human,,Faint 1,,Outdoors,0,54.4356368,24.5229551
+490,206211e8-c6f9-40f4-b235-aa6c1ef00056,5/9/2022 3:34:25 PM,adsp22_ss13189,5/9/2022 3:34:25 PM,adsp22_ss13189,children talking about pokemon,,Human,,2,,Outdoors,0,54.4356356,24.5229563
+491,f0015c38-74f1-4804-89b5-e99a8bae02de,5/9/2022 3:35:13 PM,adsp22_mim7995,5/9/2022 3:35:13 PM,adsp22_mim7995,Pasta cooking ,,Machine,,4,D2 pasta stand ,Indoors,0,54.4355648977818,24.5230127807846
+492,c989b00b-f38e-4ef2-9e1b-52548f603b45,5/9/2022 3:35:32 PM,adsp22_mim7995,5/9/2022 3:35:32 PM,adsp22_mim7995,Music ,,Machine,,3,D2 music ,Indoors,0,54.4355638275158,24.5230095773336
+493,fba3e874-5bbc-4760-b104-cd5f2881c207,5/9/2022 4:55:57 PM,adsp22_mim7995,5/9/2022 4:55:57 PM,adsp22_mim7995,People laughing ,,Human,,4,Near arts center ,Outdoors,0,54.434828622701,24.5234895806471
+494,3def53c4-2073-497d-942e-80f55279d2ad,5/9/2022 4:56:39 PM,adsp22_mim7995,5/9/2022 4:56:39 PM,adsp22_mim7995,Grasshopper sounds ,,Natural,,3,9pm near A5A,Outdoors,0,54.434638762162,24.5233130707254
+495,100ba714-4f0f-40c9-bb7b-9febb68ba940,5/9/2022 4:57:15 PM,adsp22_mim7995,5/9/2022 4:57:15 PM,adsp22_mim7995,ID card beeper ,,Machine,,Loud 5,A5A entrance ,Indoors,0,54.4344807658042,24.5233281603242
+496,1bd0eb75-5110-4a78-ba7d-4953121859d6,5/9/2022 4:57:50 PM,adsp22_mim7995,5/9/2022 4:57:50 PM,adsp22_mim7995,Elevator sounds ,,Machine,,Loud 5,Elevator of a5a,Indoors,4,54.4343677344885,24.523637293577
+497,7fa191b8-5c35-4e1a-a2f3-7a31eba79a6c,5/9/2022 7:42:48 PM,adsp22_ntn6039,5/9/2022 7:42:48 PM,adsp22_ntn6039,Door bar pushed,,Machine,,3,,Indoors,2,54.4351976746618,24.5228371481489
+498,4fbb40c7-ac93-4976-9efb-69af1c5292e3,5/9/2022 7:43:40 PM,adsp22_ntn6039,5/9/2022 7:43:40 PM,adsp22_ntn6039,Cricket noise,,Natural,,2,,Outdoors,2,54.4349243955377,24.5228072408075
+499,fec65ac5-0a9a-48c6-b0c8-8589fb23d2f6,5/9/2022 7:44:08 PM,adsp22_ntn6039,5/9/2022 7:44:08 PM,adsp22_ntn6039,AC fan outdoor,,Machine,,2,,Outdoors,2,54.4348212126016,24.5232255093926
+500,87e4440a-d883-4da3-b0b5-478aa49dcd6a,5/9/2022 7:45:05 PM,adsp22_ntn6039,5/9/2022 7:45:05 PM,adsp22_ntn6039,Elevator opening,,Machine,,Faint 1,,Indoors,2,54.4350020762885,24.5236648065892
+501,a58268f0-6c12-4f87-bf6a-49ecb069aab4,5/9/2022 7:46:12 PM,adsp22_ntn6039,5/9/2022 7:46:12 PM,adsp22_ntn6039,Door access sensor buzzing,,Machine,,3,,Outdoors,2,54.4348351042125,24.523719071886
+502,23ab46c3-0c15-47f7-a1e3-d79fd06b2883,5/9/2022 7:46:55 PM,adsp22_ntn6039,5/9/2022 7:46:55 PM,adsp22_ntn6039,Ping pong balls hitting boar,,Human,,3,,Indoors,2,54.4345853079317,24.5236515992525
+503,c04328ad-0f99-43d3-bf63-5aa87a3f6b8a,5/9/2022 7:47:30 PM,adsp22_ntn6039,5/9/2022 7:47:30 PM,adsp22_ntn6039,Billiards balls hitting each other,,Human,,3,,Indoors,2,54.4346022316451,24.5237144843846
+504,8c442ab6-f9a4-4933-b657-5552b1eb2adf,5/9/2022 7:47:58 PM,adsp22_ntn6039,5/9/2022 7:47:58 PM,adsp22_ntn6039,Water machine running,,Machine,,Faint 1,,Indoors,2,54.4345501164819,24.5237708282486
+505,5e1b9851-19e0-47dc-b66f-bb438f90d210,5/9/2022 7:53:14 PM,adsp22_ntn6039,5/9/2022 7:53:14 PM,adsp22_ntn6039,Wind howling,,Natural,,Faint 1,,Outdoors,3,54.4335016017601,24.5245090108745
+506,ed9dae9d-54f9-433e-89df-d081a63938eb,5/9/2022 7:53:55 PM,adsp22_ntn6039,5/9/2022 7:53:55 PM,adsp22_ntn6039,Rustling leaves,,Natural,,Faint 1,,Outdoors,2,54.4335644239454,24.5250926958229
+507,23680d77-156b-40d9-b363-47ec154eb4b9,5/9/2022 7:57:07 PM,adsp22_ntn6039,5/9/2022 7:57:07 PM,adsp22_ntn6039,People talking outdoor,,Human,,2,,Outdoors,2,54.4326606822165,24.5251941121319
+508,668139c0-b581-457e-b68e-1f9aafc464e9,5/9/2022 8:11:37 PM,adsp22_ntn6039,5/9/2022 8:11:37 PM,adsp22_ntn6039,Picking ice cream,,Human,,Faint 1,,Outdoors,2,54.43576848638,24.5224729554324
+509,202ddc49-b510-4691-98f3-2b1042d345eb,5/9/2022 8:17:52 PM,adsp22_ntn6039,5/9/2022 8:17:52 PM,adsp22_ntn6039,Rustling of leaves,,Natural,,2,,Outdoors,0,54.4341416530053,24.5242037231494
+510,bf05ddba-3fc4-4d4e-91e0-35a890d7b3da,5/9/2022 8:24:26 PM,adsp22_ntn6039,5/9/2022 8:24:26 PM,adsp22_ntn6039,Chimes ringing,,Natural,,2,,Outdoors,0,54.4331324270993,24.5248992638076
+511,800afce2-9049-475d-9c58-f20d12117eae,5/9/2022 9:34:35 PM,adsp22_po524,5/9/2022 9:34:35 PM,adsp22_po524,Motor sound,,Machine,,Faint 1,The sound of the elevator motor,Indoors,5,54.4344625472479,24.5227213043128
+512,5b02db10-e56f-46af-bf39-df9a31838237,5/9/2022 9:34:36 PM,adsp22_po524,5/9/2022 9:34:36 PM,adsp22_po524,Clicking of teeth,,Human,,Faint 1,Someone next to me is really stressed,Indoors,0,54.4342493417508,24.5237892355406
+513,9bd84bbe-e1a7-48c9-9579-b3c579539860,5/9/2022 9:35:11 PM,adsp22_po524,5/9/2022 9:35:11 PM,adsp22_po524,Documentary,,Human,,2,Documentary playing ,Indoors,0,54.4342627673594,24.5238013579529
+514,73fec18c-fcc8-4fc8-9f0d-dcf0f25b5f09,5/9/2022 9:35:49 PM,adsp22_po524,5/9/2022 9:35:49 PM,adsp22_po524,Crickets,,Natural,,2,Crickets outside the building ,Outdoors,0,54.4342748970662,24.5238150541683
+515,db7c63d2-c560-475a-9583-93a47dc1d005,5/9/2022 9:36:08 PM,adsp22_po524,5/9/2022 9:36:08 PM,adsp22_po524,Cats fighting ,,Natural,,3,,Outdoors,0,54.4342758626365,24.5238264639759
+516,8b26777b-2a54-4d6f-b3ea-d77e2676730b,5/10/2022 5:05:47 AM,adsp22_gkm267,5/10/2022 5:05:47 AM,adsp22_gkm267,Ventilation,,Machine,,Faint 1,,Indoors,2,54.4354131944567,24.5221807452668
+517,652a0728-145e-46c5-9148-141d1653ab0c,5/10/2022 5:05:48 AM,adsp22_gkm267,5/10/2022 5:05:48 AM,adsp22_gkm267,Laundry machines rumbling,,Machine,,3,,Indoors,2,54.435127773243,24.5225778986995
+518,79f16484-218a-4e07-88ab-136e158de7e0,5/10/2022 5:05:49 AM,adsp22_gkm267,5/10/2022 5:05:49 AM,adsp22_gkm267,Crickets,,Natural,,Faint 1,,Outdoors,2,54.4327628959585,24.5252560170139
+519,e2e584ea-fba9-45cf-acd1-384dc9647764,5/10/2022 5:05:50 AM,adsp22_gkm267,5/10/2022 5:05:50 AM,adsp22_gkm267,Vent,,Machine,,2,,Outdoors,2,54.4325854647211,24.5251471810743
+520,49f1d599-f2a9-4013-89eb-9cf6d8adc712,5/10/2022 5:05:50 AM,adsp22_gkm267,5/10/2022 5:05:50 AM,adsp22_gkm267,Machine roaming,,Machine,,3,,Outdoors,2,54.4325500800664,24.5249073622492
+521,b47a8476-ab49-4539-ac8b-722b4225eede,5/10/2022 5:05:52 AM,adsp22_gkm267,5/10/2022 5:05:52 AM,adsp22_gkm267,Talking,,,,2,,Outdoors,0,54.4352235250992,24.5228460428277
+522,d0901934-394e-4bbb-b805-26c42c83e0cb,5/10/2022 5:05:53 AM,adsp22_gkm267,5/10/2022 5:05:53 AM,adsp22_gkm267,Voices,,Human,,2,,Indoors,0,54.4355649209977,24.5230125504039
+523,83ef251f-4ea5-414d-b070-82be4257c696,5/10/2022 5:05:53 AM,adsp22_gkm267,5/10/2022 5:05:53 AM,adsp22_gkm267,"Cutlery and plates xlinking
+",,Human,,Faint 1,,Indoors,0,54.4355653378206,24.5230109650375
+524,8646529f-1876-4e1c-85e5-3e1e06734ba3,5/10/2022 5:05:54 AM,adsp22_gkm267,5/10/2022 5:05:54 AM,adsp22_gkm267,AC,,Machine,,Faint 1,,Indoors,1,54.4330201821586,24.5251831094796
+525,ec37e106-9d40-49c3-aa1d-f9bc0d5e3759,5/10/2022 5:08:39 AM,adsp22_mim7995,5/10/2022 5:08:39 AM,adsp22_mim7995,Garbage trolleys ,,Machine,,3,Near palms 9am,Outdoors,0,54.434192586361,24.5237325243148
+526,9178e026-ea5a-45d6-abb6-6c8ea89af561,5/10/2022 5:09:21 AM,adsp22_mim7995,5/10/2022 5:09:21 AM,adsp22_mim7995,Construction ,,Machine,,3,Near A2,Outdoors,0,54.4339732815009,24.5241787254457
+527,8b7e513b-3d13-4f2c-840d-e7863b4a5a70,5/10/2022 5:10:35 AM,adsp22_mim7995,5/10/2022 5:10:35 AM,adsp22_mim7995,Footsteps ,,Human,,4,Students walking to classes 9am,Indoors,0,54.4337736561362,24.524598721649
+528,b1d6ce50-697e-4b32-bdc8-6f45b00bf14d,5/10/2022 5:10:54 AM,adsp22_mim7995,5/10/2022 5:10:54 AM,adsp22_mim7995,Professor speaking ,,Human,,Loud 5,,Indoors,0,54.4342114512055,24.5238280930593
+529,94989e5d-fc08-407c-8f91-3f86b4d7bec3,5/10/2022 5:29:58 AM,ADFA19_nks369,5/10/2022 5:29:58 AM,ADFA19_nks369,Professor talking ,,Human,,3,,Indoors,0,54.4335543219231,24.5245522524572
